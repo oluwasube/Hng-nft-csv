@@ -6,7 +6,7 @@ import hashlib
 
 
 
-with open ("HNGi9 CSV FILE.csv", "r") as opened_file:
+with open ("HNGi9 CSV FILE.csv", "r", encoding='utf-8') as opened_file:
     content = csv.reader(opened_file)
     
     data = []
@@ -34,7 +34,7 @@ with open ("HNGi9 CSV FILE.csv", "r") as opened_file:
         
         data.append(json_file)
 
-with open ("nft.json", "w") as f:
+with open ("nft.json", "w", encoding='utf-8') as f:
     json.dump(data, f, indent=4)
           
         
@@ -49,7 +49,7 @@ with open ("nft.json") as jsonfile: # hashing the json data file
     contents.append({"Hash":json_hash})
     
 
-with open ("nft_hash.json", "w") as nft_hash: # export the hash data to a new json file
+with open ("nft_hash.json", "w",encoding='utf-8') as nft_hash: # export the hash data to a new json file
     json.dump(contents, nft_hash, indent=4)
 
 
@@ -57,7 +57,7 @@ with open("nft_hash.json", "r") as hashed_json: #load the hashd data
     hashed_content = json.load(hashed_json)
 
 #Convert nft_hash data to csv(filename.output.csv)
-with open ("HNGi9 CSV FILE.output.csv", "w", newline="") as f:
+with open ("HNGi9 CSV FILE.output.csv", "w",encoding='utf-8', newline="") as f:
     update_content =  hashed_content[0].keys()
     writer = csv.DictWriter(f, fieldnames= update_content)
     writer.writeheader()
