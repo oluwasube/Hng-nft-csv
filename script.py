@@ -19,6 +19,12 @@ with open ("HNGi9 CSV FILE.csv", "r") as opened_file:
         "sensitive_content": False,
         "series_number": each_row[1],
         "series_total": 420,
+         "attributes": [
+      {
+        "trait_type": "",
+        "value": ""
+      }
+    ],
         'collection' : {
             'name' : 'Zuri NFT Tickets for Free Lunch',
             'id' : each_row[7]
@@ -46,3 +52,14 @@ with open ("nft.json") as jsonfile: # hashing the json data file
 with open ("nft_hash.json", "w") as nft_hash: # export the hash data to a new json file
     json.dump(contents, nft_hash, indent=4)
 
+
+with open("nft_hash.json", "r") as hashed_json: #load the hashd data
+    hashed_content = json.load(hashed_json)
+
+#Convert nft_hash data to csv(filename.output.csv)
+with open ("HNGi9 CSV FILE.output.csv", "w", newline="") as f:
+    update_content =  hashed_content[0].keys()
+    writer = csv.DictWriter(f, fieldnames= update_content)
+    writer.writeheader()
+    for content in  hashed_content:
+        writer.writerow(content)
