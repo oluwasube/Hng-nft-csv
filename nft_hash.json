@@ -1,0 +1,5478 @@
+[
+    {
+        "format": "CHIP-0007",
+        "name": "Filename",
+        "minting tool": "TEAM NAMES",
+        "sensitive_content": false,
+        "series_number": "Series Number",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "UUID"
+        },
+        "Hash": "bcbb34112ca8980a9c119a38aa3fc41f7a7fc16f62e5f90a8782df9fe44eb6a7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "adewale-the-amebo",
+        "minting tool": "TEAM BEVEL",
+        "sensitive_content": false,
+        "series_number": "1",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cad316c3-37f8-4b27-9f53-9d803bfcfee7"
+        },
+        "Hash": "b662677805f0ad4b05036a58ac114ca8a32bb6f84f190bf42e8018e2793a0f2a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "alli-the-queeny",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "2",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a57ecda4-a26f-4e97-a757-e1800af39aab"
+        },
+        "Hash": "1983f9dc8d50620307d43c6befec6de56529763b08ffa8e2f1402287a780d7cc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "aminat-the-snnobish",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "3",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0e37ed0d-3e84-4f32-a91f-ec9c4ba8c7de"
+        },
+        "Hash": "14a924b5f08fd877450c9c0976560cb164e45dd9db86a34b5d5f601893ca3262"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "aminu-the-carpenter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "4",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4f30b751-96e7-40fe-97fd-e3d44973ff2f"
+        },
+        "Hash": "7bf778e5b88fdd93bb2b214bb71de844f9a2fe14cb6c76be902eb0dea1df8dbd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chibuike-the-kudibag",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "5",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5ce854f2-7ac1-46fd-b3fe-57583935d1e5"
+        },
+        "Hash": "f59c316d0b75b903ab0cec2ba7a60ed60f32e17340ed06f159bc0e9a12db8289"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chidinma-the-model",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "6",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c98db72e-49ac-4ca6-89d5-e00f5fbbcc45"
+        },
+        "Hash": "57f1b2a7520993dfe65d2d4eb9f97c252d76bcb99288723a34dd8dcbaef5fbae"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chioma-pretty- girl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "7",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "182ea888-a85b-42ca-ad73-ed4f8f9aa5c7"
+        },
+        "Hash": "e46d25658a5783f244465dc0c8e62257a56d5bb0bc71e103f4fed9cdf3326beb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "damilare-the-handsome",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "8",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "27eca2dc-d7df-474a-8f8f-1858152c711e"
+        },
+        "Hash": "0592dcd117d84b29875c13013d8b2e973f48c02e27f04524c254782bb70c2374"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ebiowie-the-planter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "9",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "f1df8270-4d60-4bd4-8959-ba7c384db5c4"
+        },
+        "Hash": "232e5a292d8931bc5cfc432b2260b7a22a19dcec426629a5d7c64b1fea1f8bc9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "emeka-the-businessman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "10",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9b3d75da-4887-4089-aee4-50de3954fdc9"
+        },
+        "Hash": "615cb7ef67c2c72ac418f0ba5819c4c0b34f9b7ba39a2860fc1d1740041442d0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "gbeminyi-the-monk",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "11",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c8b1fd1d-8551-4bb4-8dc4-923a9aeb39fb"
+        },
+        "Hash": "ecea4c18d1c0e941aa42dcf1015dbe38de01fdee39d03c5e136e38b92f5c2de7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "henry-the-sportsman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "12",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e1225451-bfdf-4a1f-8d37-9cce3a0bd67b"
+        },
+        "Hash": "19e455b18b895c36ee273af374db5af68e3c8b7863528e792529e9d3807dd1ad"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mayowa-the-smallie",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "13",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dfbb4163-df24-4d54-b74c-6218a68df8bd"
+        },
+        "Hash": "c2b27c5e954588915cd8f512711763f09da1fdf69de3ed28f51ceb78a2bba9d3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "muyiwa-the-stylish",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "14",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dcf9d5a0-57b7-4126-a05e-6c8f1045d3f7"
+        },
+        "Hash": "c8de3f8a6a014b9d09d099f38b7d6ab2f86f059431dffb29233bb68cc9f0ebc7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nina-paper-chaser",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "15",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "59524227-dc52-407c-8cca-e9e8c5fb3018"
+        },
+        "Hash": "f2ac080b23bf6b90ece3ec77cfa6837a27eff3e9ee2fb0a6365b1866bd266185"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "oluwaseun-spicy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "16",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "808f7007-6552-4efa-bd13-4b7c337b102b"
+        },
+        "Hash": "2bd97b33a8f4fdd94e91c8b64a7a541f4c51f5f0eff842b8bd70ccb8c18be2d3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sesan-the-smartie",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "17",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ba3edda7-8940-4ca4-97ba-826398d5909f"
+        },
+        "Hash": "05d2a144440d9fb49a2869ff4bd5aa3b4e433710c92911d99e19bb47d7f77b1a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tiwa-london",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "18",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "78da7aeb-8352-4e25-89ac-dc48b5984089"
+        },
+        "Hash": "99959ac5f33f0a6bf842849fd24fe398c1c6d7824fe6fbe01bd7454b093959f1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tunde-yoruba-demon",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "19",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "53b46bd7-a537-402b-b249-0b4074a8faae"
+        },
+        "Hash": "7335157f2b9b8f394afc133d1f2fc8fe16bd2289ae691587306aaefa81a20b48"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "yakubu-the-zombie",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "20",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4adb6781-1614-424e-8f77-fe59ffca2209"
+        },
+        "Hash": "91435a561617345a7bc291a9e2943a212cfbd42e74870fb63492b8e8bdc80190"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "abdul-the-vibe",
+        "minting tool": "TEAM CLUTCH",
+        "sensitive_content": false,
+        "series_number": "21",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "770f817a-9d9a-4772-9a91-e66dd9d03470"
+        },
+        "Hash": "a38f79020a7940ecb03ec3f55bf7479cd4ca5181251d8cb43495d6e626520319"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "emeka-the -clown",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "22",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "78810fa6-a7ef-4d83-bf57-caf49db4ee69"
+        },
+        "Hash": "314e79da9262ac43805c2c8b9a654f2d35ebfa57de8002df355d2a48272c38c0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "salam-the-odogwu",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "23",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "f2957ded-022c-4b07-92c6-b345d4816a67"
+        },
+        "Hash": "63d50d2edc2842281b8c2b418915d97cdc9058cfc9a48e352b34dd54fd8b4fdf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "charles-the-exporter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "24",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "09395e76-19ed-4852-8748-795ee7496a8e"
+        },
+        "Hash": "069965cc62239d681ea93ad9199e2ab602ff252cb2b55e2e1b0a3320fa42c218"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wole-the-pimp",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "25",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4d94d4f7-9b69-4e43-9db1-1fe83df92857"
+        },
+        "Hash": "8387b4959200cb78ae96e40da419760d71c7dd9ae26328998d6a736cbbcf7311"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "saro-the-baller",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "26",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d35a7514-8996-42fb-a5f2-5a603ec679c5"
+        },
+        "Hash": "d2c8c44b9437219b6452f96067ea11b64e1b67589326b1d396a5d7c596b5661c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ade-omo-yoruba",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "27",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "92984fa0-310b-4377-8a10-15965d044383"
+        },
+        "Hash": "ec976e7b1160bde5cce3bcd47fa34b19ebf2d146638752e8d0f18151a3f3eeb5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "shola-cool-kid",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "28",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3ac5c186-bc14-4eb6-8567-cc818465a64f"
+        },
+        "Hash": "02c2ee526bb0b2181610d312728fc1411093d8e6906c8acfeb2baf1750659310"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "charlie-the-smoker",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "29",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "71a0aa22-d111-43b7-8484-43d87310bc42"
+        },
+        "Hash": "a457dfbae160762fc1d2eba0c66ea7f345aff8b56e4be87f71d5f3bcdfff8ff6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "femi-the-badguy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "30",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e493e3fb-a8a0-455a-854f-0f6474bbc69f"
+        },
+        "Hash": "9808b64f198ff82fb75b378a15ef3d7533c503bbad0698432ca5f5c43d865c3b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sinzu-money",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "31",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "942f8347-9932-4331-bd15-d0f3a048b54f"
+        },
+        "Hash": "a947e4cb84c3d63b3f85842e36ef6e0d0d48d239d3a097d14b3c03478436b370"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "obinna-the-palmwine tapper",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "32",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0f1af056-2548-4407-bed4-abc11deae05d"
+        },
+        "Hash": "b1b3b10d1508a1fc8334882af4b57cfa1a87472ac5edab6edae926c5424fc553"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "aminu-maikudi",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "33",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0129e7a5-e3d0-4675-92d0-1a1e55d11612"
+        },
+        "Hash": "ada19b122aff0ffb9c31049f28c96007cd1f0752265e529ddc3f0eae00857af5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sabinus-the-town crier",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "34",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "01d4ce96-818e-44b1-8813-68a7d34b35ba"
+        },
+        "Hash": "510613ff831f2f858a7ffcac9cf3b2c3a607f355f0a57e59975dbbd24b235552"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "adisa-ibadan",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "35",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3a925f27-35f6-4dbf-9960-c6527fae5f3e"
+        },
+        "Hash": "44ac1dc148dff9a8feab00d3c296b8540792883e030c208cf3f7a3780f34f078"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "linda-the-navigator",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "36",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "71f335a6-5a4f-4410-9cea-179336f0e498"
+        },
+        "Hash": "a17c4c802cb47539c42614f385dbfb6a197121f8bab931a2502623c0624ced94"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kemi-the-iron lady",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "37",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "35b11a31-5b92-49f4-8fb1-30f255d22054"
+        },
+        "Hash": "46e69f07c7b48a6a3214d53a34eb95d33ab2e9264475f171f27995644acb2ce2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mercy-the-sassy lady",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "38",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7a3c70ac-927f-4a63-a3df-ab86dd27cd0f"
+        },
+        "Hash": "c0d5b270707825504b5196c91a6a4b3be0748610c884f7ac76431b27c96a6400"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sandra-money",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "39",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1bd95fb0-7b2e-4354-bebd-22f9cf70a1ca"
+        },
+        "Hash": "031cd68dd17f94e227da723f4095a7d648fe7b8feeb628acd5ba36f6e68f6e01"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bimpe-the-fashionista",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "40",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "92b548b7-998b-46b6-8198-80d407209483"
+        },
+        "Hash": "6733700b5d823600c39ff4e50122cbcaefe76d5d64a70288e9711a943387634a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kim-rich-aunty",
+        "minting tool": "TEAM ENGINE",
+        "sensitive_content": false,
+        "series_number": "41",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3344a73c-f15e-4afd-a1b2-3199e27eb08f"
+        },
+        "Hash": "eb976faa4018a228216758f1af5a1944472407d42539418b8c56ee95c455a47b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "barbra-vampire-bc",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "42",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4f31fd99-4918-42a9-a112-fa60ef36d5c6"
+        },
+        "Hash": "286246bef7ab9a768b3f100e82e4ab776fafbf85c09ad177e102554b0b1b4030"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jean-art-dolger",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "43",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5e1105d9-e485-462d-a5bf-1eb931976b13"
+        },
+        "Hash": "f13ed8806938f1b0fdd9206bb66b074b7c76d4c83e193101a9dfd2114ae7a0f3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "flora-burger- eater",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "44",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "054dffd1-cdff-417b-b6c2-a679dabd087b"
+        },
+        "Hash": "6ffe044051c15a50d73f7d20a50b34812dcc7ff7b18bb4d0bc8189dab43e30d3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jessie-lord-rings",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "45",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "caacabe1-0abc-43af-92e2-2231248bff93"
+        },
+        "Hash": "1de2fb9fd412cb48d1aa0bdd1b39f443be5faf28dac8f896d4a8ed3fa5a4903b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "pinky-monky-ponk",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "46",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "bd6a4b38-543e-40fa-9153-f7e1a947ebb1"
+        },
+        "Hash": "41d35b8ebca83d7ca3945119b4af940b30f9fec1e9f518ced146b2998e49c77a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wanjiru-hippie-glitter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "47",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "683f0d27-3cb4-4948-b1b5-09f10bee575a"
+        },
+        "Hash": "6096f9d8b1575e37f7feb264bf7a4d615a08e68c02b3b48c3bede667debb3913"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "njoki-binary-coder",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "48",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9b59bdb4-0c6c-4107-9d72-6d38d308edb4"
+        },
+        "Hash": "fe9945f439991a83cfb8e4219b4c24e0e02af79e4f16ad72dc3b6d6a6fc01297"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wangu-calaba-hustler",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "49",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "67f7da93-3925-4def-b660-58f558c14a19"
+        },
+        "Hash": "369056a3e1f8670e02a1015521f7e67344faa0de4b81abb1219c9684bac75995"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lulu-dey-kpako",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "50",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "23b6c38f-ab84-4565-bfe9-d9eb019c9f29"
+        },
+        "Hash": "9b5010f2976c80bda7d5edecc9477a822f111923bd1fd345e73226c2ff6b430b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kiki-cala-flier",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "51",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d24aefff-c9fc-4ea9-a7cf-1b741076c822"
+        },
+        "Hash": "b22fb3a9e724df79163d3e6f2a9911aead16edf101f10eff1d3e6295c6cd581a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "purity-nft -investor",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "52",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ee86ef77-4793-411a-88d3-ea54d84f6b24"
+        },
+        "Hash": "b8d90763acb2a61b43d700c0bcaf812d523791edf88dfcecf0ab0d655fed2c6e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "june-binary-monk",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "53",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "102c4cdb-f812-44fd-bf47-5065284c6075"
+        },
+        "Hash": "6771f50b0fdebf2ebd7839ee2d45d5655804341d0404490a6908538ff7da1d11"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "aisha-crows-damsel",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "54",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c4071af3-b49e-4ad6-898b-7828f90465fb"
+        },
+        "Hash": "5f49506c55aeea196c8ae18815779b35f0fc0ecfd405938c39a2c3065d72cb72"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bobo-crypto-lovely",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "55",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "427ea0f5-30a3-4d70-a5bd-a6106409b83c"
+        },
+        "Hash": "b016e92518f9d25eddb27c95981377e67f0f7eaf4695237af6ca3c0ca67e298b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nell-light -embrace",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "56",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9dfe30b4-c71a-471c-8091-f5c4a238eed8"
+        },
+        "Hash": "4f6054fab29e9ff5b01e0ccd6f64c63cea6fca3bd1e1bda3152d4338fbddf7e7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "rachel-mood-silent",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "57",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "11450acd-f0d7-406f-bc18-bdb680404845"
+        },
+        "Hash": "add4577c0859f1d624ac424e42515515b122afaf166d8c6c6a9a53a552356147"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nana-reflector-agent",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "58",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "63bda633-bfca-4b28-823f-7772936b4103"
+        },
+        "Hash": "2a41e99039341db0a467880ab75d9f4bc271e97d3a9dc9793b0c16b06854742f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bree-busy-gossip",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "59",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4f5898d9-fc99-4053-a56c-b2ec1ef41347"
+        },
+        "Hash": "d4dae23ee8509bd242a37079edb09c514610ade5ba74e9f941c930f25770bc7a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jude-shadow-fighter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "60",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a47b2ed7-d4aa-4404-ac40-0ecea464cf3f"
+        },
+        "Hash": "a4ad7326ffc0ac43651d5b80ee53ea3fa2de6af9a6361c33485ee62df476f55c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "toy-soldier",
+        "minting tool": "TEAM GRIT",
+        "sensitive_content": false,
+        "series_number": "61",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "fc8ea3ac-59d1-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "ca4e1a488c32b8cdebfdc12be7fc46bb399a43461588d0996921572eb97000f3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "pipey-rivers",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "62",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58f69cae-59d1-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "e1d15ed9a2b6de7da0640b67145f806d5c7af579d7ed7ef9d72f064667c3b09d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "phiri-of-zambia",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "63",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "24b537fa-59d3-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "1c9b40ed8263e5397ac8f4cbe6a526e734b7cd1c68e474f0884c92dffd4dfcad"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "patrick-of-bikinibottom",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "64",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "064c7b84-59d3-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "a54882116d760396273ec80e97f05835e1a308567f5452e2b544c5297adcb643"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nobuhle-of-zulu",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "65",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1ee5b1ce-59d3-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "7b1f72258465da5b934bb5f683085d8f5273dfd6485d297fa513532979562b98"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nkosazana-of-xhosa",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "66",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "2f1a1724-59d3-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "871cdd892dcfe6a08210e0becbb5d3408cda73a6827428334d8666d8d4cd52d1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mandla-of-zulu",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "67",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d04553b2-59d7-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "7c6027558f6ee5fa8ab760856b3295f4ab9cbd4bcb7ee5e39f0a1d4d86eca3e7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "john-doe",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "68",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5d19795e-59d2-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "51358f4f2a1a34147cb4bc50d581123d99a7dcc6a1461d22388fdc549cff0fc2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ghost-of-power",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "69",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "29c764ca-59d3-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "656de4aaf3cb20285ed3569c116adea258574f1c613922a117d5e2965e879a52"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "freida",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "70",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ee671c4a-59d2-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "fc46e93d2953c0afc933272a2e53e90ce8b8b1ada9f54ad73b57bd9da7002da6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "flamboyant-tree",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "71",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "380e4990-59d3-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "df4c7fa4f1db01f0b6446fe44524c69cd1335ac6bc71b8e5785472db341821e8"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "david-of-accra",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "72",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1c1ef1b4-59d1-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "d1b7a4f4aa1faa47723fff9f37d97aa436a6b814e51ee2245161dd9615b12f6a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "cally-lily",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "73",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "82bba87c-59d1-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "77475ab05760e50877d6f85038fb55d2498ba128ee7d193857ba87098e92e1bf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bubune-of-accra",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "74",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "faa4b530-59d2-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "090d0402fa51e9caf0fb3889d392615acc6a70cd61b2ba67d67eeda35c33e7ee"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bediako-of-accra",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "75",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "fb6e8222-59d0-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "5d7db06835927df3b6e2ba70048d40320f20522f9c3351a40bddbcb9a43617fe"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "avatar-aang",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "76",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "169f93a0-59d2-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "de5df0aa8df2741e1f078f02471acdafd70afa69b26f2379df21c2b633da446d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "argus-greek",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "77",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e7f26b26-59d2-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "cc2e0c59ee6320876715778c619c56281279b7056d9356019a4e05beb651036e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "amahle-of-zulu",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "78",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "169f93a0-59d2-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "2a1565d4d59d314ef747865f48b622e100b1e578f1fc40525022fe1943493e0a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "agnar-ole",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "79",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "f3f11fd0-59d2-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "0ad03f8db5d06e630b5c3a6dec8b70809ed2d937bf2f5abf1177538d93c83e4f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "adom-kulu",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "80",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "00f6589e-59d3-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "46e72c79ba483d78890fc364a772e84920175fc2857b08d1880a37665dd647b5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "segun-baller",
+        "minting tool": "TEAM PRYBAR",
+        "sensitive_content": false,
+        "series_number": "81",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58ac5cf6-b644-41c6-af79-ec9aa5f6bdd1"
+        },
+        "Hash": "39365e157be11b31d9f1a2559930b6f595a4ef23b27b37790f29a92ce252fdc1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bolanle-pepper-dem",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "82",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "46966104-775b-4443-90bb-b35afd121653"
+        },
+        "Hash": "301341f313f935ef0c03b9608ad6ffb5b7e2daf0e77eef4e4f38fc37fdc0d205"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tayo-tailor",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "83",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "70828783-ac38-48cf-b966-cfebc92ebd86"
+        },
+        "Hash": "26e82ba2189ad60a848456c506e3ab14f7d9749ff58ff36abf1568a89032dd70"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ajasco-comedian",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "84",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "8bebdb3a-f0a8-47ba-892f-39aa275fbd0d"
+        },
+        "Hash": "ba0f1de0918975b9d65a118f3d670e8c2f213c7aad3fa3c118cb820fb2f47b36"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tobi-babyboy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "85",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3da592d4-5dec-4bc5-8412-f1b2a0269f95"
+        },
+        "Hash": "c6ca43dc2ad507f1df9b67afe9b0694c9dd96564321f741fb1c3307d4b652d86"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "esther-sassy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "86",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0642a25a-966d-446f-b021-a6d18e7fa0c5"
+        },
+        "Hash": "dfa1bb27bac843d8ca9835bd4fb706b087823f23a4ff311c2fb1b42d7cd66e88"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ozo-fineboi",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "87",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "hair: brown, eyes: blue, teeth: none, clothing: aztec print blouse,  accessories: choker & hookah, expression: blank, strength: charismatic, weakness: proud"
+        },
+        "Hash": "445afcc31667a2d81437ab25bc636d5af7a35925fddb64d05645b4c6046e9fd9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ade-party-girl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "88",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7e3db30c-9faf-430d-ab48-b854fe0456b9"
+        },
+        "Hash": "141b9deaad4cc04ff02827153b020eb7aa7f632bf7e10f487ceeb2ef15ca8156"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "john-casco",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "89",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "2eff88ef-5bc2-4779-917a-533e952e2953"
+        },
+        "Hash": "ce622dc74a89c87f49d8d8b5f8e3f16ef8dd29cfd3aa5f4100c173db7674d84b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "agha-uwa",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "90",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "8478a002-1eba-4a05-8b98-7170c6e39254"
+        },
+        "Hash": "780d0239bd30329b0f4ca01e30537d9181ccce4ecba68f18d510f76d827d8740"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "udeme-great",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "91",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d1476409-6f8b-4be9-8c93-24d9123749c5"
+        },
+        "Hash": "13ce80dc97a0312ef8cde66e2d47e5e1dc732160fdd8fe067d5f3822c575e01a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "femi-tech-bro",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "92",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ba3ec22a-13d5-4e19-9b7f-aac764fda28c"
+        },
+        "Hash": "7d48addc49e30c3a2f939f97fe099f807b83bf42118b1c213ec8f255ded202d4"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sai-baba",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "93",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "fdfff369-5b57-4612-9f89-f5d408f24a35"
+        },
+        "Hash": "cdef29ba41627cd386db53531e088a6a942d5cefc47fa95f27011b9ac98bb6fc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "omo-pastor",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "94",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "49e09559-61a6-41ff-811a-272721a7475c"
+        },
+        "Hash": "2536e212d575b9b6626ecad175ea31a8fd89e81982f5cb0fcee9a91513f9b128"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "obi-container",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "95",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4b64cf48-94fa-4aed-8cf2-452974b48ee3"
+        },
+        "Hash": "3ee72cd404561db77e305e0f318b59cb9965efbf28bc6c301d91040f8061689f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "erigga-international",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "96",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3ac39a5e-7b0c-4371-b0c8-7cb4b68aed2c"
+        },
+        "Hash": "c98b072a98040263c539753a3bff1eef5704eae16d78d3b6e22c8f1027f140eb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ayo-web3-bro",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "97",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c137ec2b-18cd-4c29-a194-af29ac9e6c1c"
+        },
+        "Hash": "5ba81b8c9efa33b510a13162fb88cd9195d7252127e4a69a6c13e7a2330a226e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "phoebe-queen-bee",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "98",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1277e9c0-81dc-4747-89df-a9d2ae4fcf96"
+        },
+        "Hash": "a864421b7ea525b14324a405473322d5218487e7ba4854b88e307e6757dbafcb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "rachel-warri-babe",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "99",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "19e6af3b-ef2d-46ba-ba05-59fb612ebbee"
+        },
+        "Hash": "d5a21f294871b8d9a30ae68e61677cc6cc2a70bc26b6d91ed6e6d38704b5c642"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "adun-preacher",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "100",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cc4dfedf-c343-48db-ad67-e39452ec2380"
+        },
+        "Hash": "89d18b0179c499b6b12d4ba0c63c8503f050bf5d63bb95dc9b4878bb7a6d13a9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "adebola-omo-oba",
+        "minting tool": "TEAM CHISEL",
+        "sensitive_content": false,
+        "series_number": "101",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "fbf43611-f267-4cba-bf4b-a3ffdc122589"
+        },
+        "Hash": "acbd9f53da0c300f79a3aa5234fe10c1a7215ace18c59927b119e2a9a6da7b9b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chichi-the-dancer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "102",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e7c32b06-7022-49b4-bbe5-81e8c1d58583"
+        },
+        "Hash": "79e3c951327ad12a0bc0b4dbe6d60dad4e7ef43f7880cb9ec83f44e7cc8ace06"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "hammed-the-farmer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "103",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e57d8985-599e-49da-8d62-fc16b7ac93f2"
+        },
+        "Hash": "68d9b069286e9ab7b4494ced01ff661008ddeef7e0c614ec6bdc21b0f35ddd7e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "farida-the-tivlady",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "104",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "31d3e229-003e-43c8-ba82-38f49cf58ccb"
+        },
+        "Hash": "9618d407a57906661526a1a467baa1bbf5e0efae271117cb4f9b2ea92ef3bd78"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "hannah-the-singer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "105",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "281f5bd7-5282-458b-9811-e369980e7dee"
+        },
+        "Hash": "f3c20c8e32d000a82ac45c65d22e1c2798d4aa46886cd4e83a2cda0bd50b17b3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nonso-the-igbogirl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "106",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5cfa76df-8376-4505-af12-78af24f108d6"
+        },
+        "Hash": "b7a3d2efc42b53a72fd5bb156dfc63a9866b3531cb9bb113689cbf2e5b1c4a8d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "shade-olori",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "107",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1a07ca73-d39b-43e9-a0f1-ef9f5e57d3a9"
+        },
+        "Hash": "7226ed3dc00b3785b2ec98d50466fddc6be116206157682aabca1430baafeac0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "quadri-the-teacher",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "108",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d96a93e7-17a4-4efe-b09b-02185cc81ce8"
+        },
+        "Hash": "b36c99bb5d5d1251cf63abb226a1051e6669e3e4d6d74cd1d2383a58bc094639"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "Ifeanyi-the-dj",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "109",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "030f665d-2cd7-4376-aef5-4030dad9f2d6"
+        },
+        "Hash": "7229fe2c0bd8a1a7f6a250941bc27cfcb79dd5a817d835be0473a44d47f57ab3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "fayo-the-yorubademon",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "110",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e270e278-a9b5-408d-b527-d518239a997b"
+        },
+        "Hash": "7d7d2cc85ec190257dd46472bdfc757b11807c9297cbfb0a43cd23129b1ca380"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nkechi-the-actress",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "111",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "34b1136d-00b1-4f29-8a03-5b02291d47d5"
+        },
+        "Hash": "8aff4e2113d38a331b8064acc5278aee077153303fd70dccf7294ae803492313"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "hamzat-the-mallam",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "112",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "592eff9f-93b2-4452-a2ed-5d44ebc969db"
+        },
+        "Hash": "c1959a92cb0c4b7d734c63912177f3bca843801feeb0e7725585d9f11a70d762"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nnena-pretty-girl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "113",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d9477612-ad63-408e-8d12-24679c647b32"
+        },
+        "Hash": "44b1df8c5b9682b7149044d8e27e7463c2a96d223be51648692737e00dca81a0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tunde-the-boss",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "114",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7635c4ee-04f6-4872-bfc9-37e5a73c8fc6"
+        },
+        "Hash": "c892219829cb790185db3ba93d6bfea635b5fc3918c58b3f7a25cba307bc4b9f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nnamdi-the-barber",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "115",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "152758f3-9414-45a2-a809-95cb05a3de13"
+        },
+        "Hash": "a7bfb99b30d61f29bb1d0b0ac02d05468cd8ca45c1379d58616c723c6b21f41b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "amaka-the-hypepriestess",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "116",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c7726e84-3c5c-4e66-8677-cbfb5c9ee850"
+        },
+        "Hash": "ab54eefd7b7cb395de608949308190306e141927ddebbaabe6bf92da2b43b3a9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kemi-foodie",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "117",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3116cb6f-14c4-4d5a-af57-54253b72a309"
+        },
+        "Hash": "1a541ae36392bdccdf63a82c1521f1a29b22c0aba52b86cd00ca80e8ae39f0c4"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ada-the-fashionister",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "118",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a14df1c1-7a5a-4a33-8780-0fb01c593da6"
+        },
+        "Hash": "5f6f22a03c2761b40b0ea72ba28e374d781f35826c0d5dd715ca14193f3324ea"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kayode-the-baller",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "119",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "fe17bfdc-c251-4654-8313-1ab793e11748"
+        },
+        "Hash": "b9d3559ee4fb6deab1081bf671e518cda078679d67e1f0c36b2276da2b6d8234"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kola-of-lagos",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "120",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "df295be1-1509-406e-a263-28a5dee0abca"
+        },
+        "Hash": "a1f734092fddcc83945bbb5d115265d9762a767d609a53be500e2dcce457e994"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "azikiwe-popular-trader",
+        "minting tool": "TEAM BRAINBOX",
+        "sensitive_content": false,
+        "series_number": "121",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7ebde325-8efc-4997-811a-b5686269929e"
+        },
+        "Hash": "bf73f8e4cc9344f630b404043d1bf877e322c885431aaf19d3bdf82621257005"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "obasanjo-funny-guy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "122",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c136a120-a339-4080-96ca-1c93845c5848"
+        },
+        "Hash": "d204ae949d73dbee344eea7da8c66143c738e09949846557e62fc1e7d6c34137"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "yakubu-village-chief",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "123",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5b0c0d26-d204-4264-b579-081ff9df935b"
+        },
+        "Hash": "e4649fab33edee5ce702d54e101619628f73eebfdd462587a659cb33f10a37cf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "abacha-loves-smoking",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "124",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "8ac6d95f-0cf3-4f54-9cf2-be8834b3004c"
+        },
+        "Hash": "85bae1d49d471f1dc53ea8416d2781e7da7edc245dfd87c9b91c03926e1225b9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "johnathan-good-leader",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "125",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "241e3713-4ce3-48d0-827f-b282ae2db6c4"
+        },
+        "Hash": "a0c34e33b13b4474a65a6d23b5460468b07551997928fd7db745340224d7cf9e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "johnathan-genz-kid",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "126",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "90c0ae09-a35f-42ad-b93c-dcf30169acd9"
+        },
+        "Hash": "92086050e65077011c9fbd6886a9525e3721236681cad057c6be3728c71d6192"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "eddy-the-community",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "127",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5cabf9d9-882b-459e-9253-8c07eb045e2d"
+        },
+        "Hash": "4c998e3e5f062f113e3d0c7f95fbe569ab82f7e93cfaa07903fcb01426cbe66f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "olu-the-oba",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "128",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "04c4b28a-aca0-44b1-a064-ed0d9d2a31ca"
+        },
+        "Hash": "13f1b4e39f547596ea8a32dd0460d6258ac37572eac451401588eb511c89eba4"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "edu-the-biggest-trader",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "129",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "48d1de5f-5f3f-46aa-b2fd-68420a8e802b"
+        },
+        "Hash": "dd2e89c6acb0a23fbeeea1e65e19fe9d970c59c8ab50e2140c757267d37bc0cc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "james-importer-and-exporter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "130",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "22541251-022f-480c-8c1e-cf754dce16d6"
+        },
+        "Hash": "d3d35c4e61313285cb5ae008fbd309b72322add1b30564807844ae5f118228db"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lanre-the-dreaded-guy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "131",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "66a054cd-5541-4000-98aa-8f2e9892d880"
+        },
+        "Hash": "c0349ad0a0cccebea74605889f46c778b7e78fa4671189c615a6ff530de6dd4e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "olamide-the-street-boy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "132",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d50a35b1-b42e-4e0c-8dd8-9b892b56d371"
+        },
+        "Hash": "2f9db99c92a4ed7008503ccab1e24613afab8e01e42218e9aeda1b8030f90ab0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "uche-peace-loving-man",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "133",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "6c9d6eae-2ea2-468c-a2c8-928aaafc084b"
+        },
+        "Hash": "c080dd9ff02a4a008abf4b14f2fe97879dea50131d802bcce1563cf2e81b7dc6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "dave-the-tech-bro",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "134",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c0857b11-bf0e-46a4-9108-b8eb93d83e74"
+        },
+        "Hash": "b442c5336f724ee042c2a20bd0ca8fbae809948b85b3cccf37b7df4f749f3dd0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "obi-the-biggest-humanitarian",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "135",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "201a408c-7a2e-42d9-a62c-0136c885c211"
+        },
+        "Hash": "3367eecb586f6b31093fbde4a3146fe60877a6308a83880e74ec32975f2f0f85"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "precious-the-emotional-girl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "136",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b6a41ff1-51ce-42f7-9933-85d0a22ced68"
+        },
+        "Hash": "2a0b187bd0bcdcb96c4eded6257ebda06a37489bcb30a9a0e139a06b20ba61de"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ella-serious-minded",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "137",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "04036447-f43e-4bfb-9503-f55c9064b14e"
+        },
+        "Hash": "2b446b671e85f15ca1150b9cf43b0c52a354ca10f1162491fcd15f9087a90f49"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "cynthia-cute-eyes",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "138",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5d12847b-6d71-4691-8337-2e6ef3e283b2"
+        },
+        "Hash": "596cf828b1b833ab1126100f2ee3e545950ac871ecc082d8d5df08c7ff60def6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mary-with-hair",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "139",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "98035e8b-6540-4464-8a3c-fdac9f07b168"
+        },
+        "Hash": "1a88de8c7ac364a7d7d7d54cc349654714cb8457a05eb62fb3358b0649d822d0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ada-chewing-bubble-gum",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "140",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "15309dc5-e483-4658-b503-db85ba2c1722"
+        },
+        "Hash": "13cd44a3d49c1b6cc5b21019123a86a00bc6e8d46ea75b4e88888b9e95ebce07"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "viganem-the-drummer-girl",
+        "minting tool": "TEAM PLUG",
+        "sensitive_content": false,
+        "series_number": "141",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5a5a6f5c-39f3-4beb-ab74-60d3c7a90fd4"
+        },
+        "Hash": "c0841ac3631f9aa523e7c8ab10f4b30e520169c74aac77d7f17a56ee67710f29"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lenusuka-the-big-woman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "142",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e564a43a-ef77-487d-a88e-749d20a09fd8"
+        },
+        "Hash": "90f629fde84d98f3e34726ba21cd589f6cc6c6c081aad5ed419a9126a7c23073"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "enepua-the-clout-queen",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "143",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "6dc7e452-0626-4f4c-a28c-f5db3532e305"
+        },
+        "Hash": "4cef7da1cf92354dd934fe0d40326ddfd2a1db5d46da7ec76b5ef51f6a45007f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "usifong-queen-of-mushin",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "144",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "221263d0-8775-49f8-bbf8-4b08b49e1482"
+        },
+        "Hash": "40e11f5a01547266f33ff2114a80513891d474ab012b2204e48556cd5a13be1d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "akinyim-the-clown",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "145",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c1070dce-48a1-4ae8-b9a4-d070859a8377"
+        },
+        "Hash": "bfd7878c94abf0fa3218513fd0176067e672b96a600da96a2daff4490cb5070d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "zawadi-mr-sleep-everywhere",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "146",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c22489fe-574b-47f3-9667-c9c798b2d4df"
+        },
+        "Hash": "b616568b1782b50ead8123457e2d75787aab549bce97996c4ae6ad33946cd0eb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chepkirui-mr-self-love",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "147",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1a91e778-d214-476b-a667-94e9ecb8b5ce"
+        },
+        "Hash": "782fba9787c61258fa5a27774e20711a2a0b8be1668df6658797929635bcf01b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "naserian-the-fear-fear-dancer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "148",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "8177cf38-8284-4eb4-b19c-04473bcb3b5e"
+        },
+        "Hash": "bb6e778f2e5f1228934ff7da60880e256c5fd43aea3f14b05c4babc94026b6d9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wawuda-the-ashawo-of-africa",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "149",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0554bf35-f588-4009-aafc-ef875b878c29"
+        },
+        "Hash": "8eaef5e62c6b36412367c4cbd7422ef51f1cad8c2a6eccc59e916bec3cc50f11"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kerubo-the-igbo-smoker",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "150",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "33ba8e73-7949-4bc7-ba27-37ee1d573946"
+        },
+        "Hash": "d237d7b80bbd2ffce91d686573e7ed9d4fa21d8e6d4dc54b596b315e42bc9387"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "rehema-the-olodo",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "151",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1fb33783-4898-48cf-8a73-f81afc71e1a8"
+        },
+        "Hash": "dd05b83dd0d37f624dbf48761e6cd7be7c03920245db31a28f2422b7eb35b93e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nekesa-the-brainbox",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "152",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7ba909bd-19a1-454d-a86c-a45e85cb94a6"
+        },
+        "Hash": "d53cb180275a2578588fc4118bd835801c5c299395d792eb9dfcc976da7264d9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kiokoli-the-slowrunner",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "153",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d7027b6c-ae53-4cce-b80d-67aeb7ceb1ba"
+        },
+        "Hash": "cce515fafc05b5a4b2a22416877af306dddc8231b0324e051156631427869a88"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "adjuani-uncle-wire-wire",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "154",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "36cd959f-d280-41f6-af76-765715c72527"
+        },
+        "Hash": "a5424697910491c89994a268c0d3b1bea51e37859c603befb4eb437e713c7c96"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ajobaru-a-creative-artist",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "155",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9d262f55-73d7-4b95-9a82-42356dbb085c"
+        },
+        "Hash": "e32f466eec135486449df361060489ec7fdf84d956ff66b566830414b20561d3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "effiadem-the-fireman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "156",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a4534fe0-b5ed-41ab-af72-1f2d0ff0fc64"
+        },
+        "Hash": "8cae47fab87e27f5ca63b3793dc7a331ff7b050671edf7b639ef236c768b38b7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "deladem-the-commandoo",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "157",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "88106b92-da30-46ad-a3cc-d528683b9e33"
+        },
+        "Hash": "f9aa6fbbaa0fdd402f6cf8408d5c6ba4bf2c439e1bd4e9f27949e88c228f42b0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "dogbeda-the-monger",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "158",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "66a09968-cb92-4378-a588-49947f68c537"
+        },
+        "Hash": "cbb0935f628f14ef460d23a91b2b7c50eeaeb69b930a6eecc5078c14db7db536"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "enyonyam-our-slay-mama",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "159",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5e7c7f9d-d631-4759-9b27-cbaccd33d39f"
+        },
+        "Hash": "71ad22dfe319ff68c3036b665f74d260045589355c7def017f8b18b43835dd88"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lumusi-pro-technician",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "160",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b07676a6-c611-410d-8426-46c9c525189a"
+        },
+        "Hash": "01931f530ed4f07447dc56f905efafdffb588dfc53355dcc3da405521ab2598b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "funmi-the-fashionist",
+        "minting tool": "TEAM HEADLIGHT",
+        "sensitive_content": false,
+        "series_number": "161",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4f9d99a4-78a2-4fdd-bc30-b027600fa88e"
+        },
+        "Hash": "61efeda2082839c13c710722a9a4b6da432fa99bb063d476a345255054c364a7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bola-the-funky",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "162",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ac721b71-cbc5-425c-851f-ee826973f0b9"
+        },
+        "Hash": "3e3ba453e3fc5aaf68a6f0343994961330ef9815d5efc869eb4c965185385475"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bimpe-the-runzgirl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "163",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "eaa7662f-6926-468a-9add-e791916ae42b"
+        },
+        "Hash": "798579ab6e13c3b4af6ae2f949cb2fa0fae5541eef4b25236180be3098cfe40e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sola-the-queen",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "164",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d5f23ad3-832a-4d3e-814e-e23f466d18a4"
+        },
+        "Hash": "0d6af964a5f7454ce5814f44cdc8f150b8e2c619e083b77d6d9832e5f6d3c47e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "temi-afro-girl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "165",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4f9d99a4-78a2-4fdd-bc30-b027600fa88e"
+        },
+        "Hash": "002b061d1a6086cef97d0d1ea660ffd5b4b3bbbfa97692267c1d56dca8690a61"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jonny-the-bravo",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "166",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "2b345988-b4b0-453b-ad39-efe1321bc8f1"
+        },
+        "Hash": "b4063f0768939c19af2a79de599c405f6074e9bf676d0fd318314047fb88ada4"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tunde-the-bigman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "167",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "56db423e-8b09-453e-b5fc-61f4da9d7a6f"
+        },
+        "Hash": "4ea42f3958fe34c2a6fc22401d98f3cca3e537bbeac47156fd71811ec4a2103d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "joe-the-plain",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "168",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7a3083bd-5aa2-48b5-a30b-4445cc060f57"
+        },
+        "Hash": "582af5b5bf8890eeb795bd9f5cad7db355b5d25022bfb60cf89127e3369c5446"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wale-sharp-guy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "169",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "44906ea0-901b-4b3d-802f-f73acc8758f6"
+        },
+        "Hash": "6e825d2d88c74b58eae2c67bab9be2c9d11a04c3929329b394eadea328a01bbf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "dele-the-snoozer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "170",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4f9d99a4-78a2-4fdd-bc30-b027600fa88e"
+        },
+        "Hash": "400a0dfe74ded2f47f16142895c66a6d07b01318bfc8d81a129c071071cdb378"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "father -of -tolu",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "171",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a2651258-ca3f-4940-b095-3a61ff630263"
+        },
+        "Hash": "3d70882620b12f5b31568ce33df6aee47bcb231713e75d00ea067a73935fa588"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "emeka-the-chief",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "172",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "de25fd63-dafd-4f77-8072-7ac0ae3a3ab2"
+        },
+        "Hash": "6264219782b018933252a884284af85b0959fcc98cade75420886f5546811fd0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lawal-the-drooler",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "173",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "806b640f-1c8b-4cc0-aa10-45f3ddc00140"
+        },
+        "Hash": "0739522165e9b5cbf8740127e8b9e321ebdf6f31ad4f17f4a38c986013af7ba2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "solo-the-messenger",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "174",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "44906ea0-901b-4b3d-802f-f73acc8758f6"
+        },
+        "Hash": "d46cb0d63811cc835d7ca25a877b922ef3cb4ce0f0114504618d1e1842d83549"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "femi-the-honorable",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "175",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "af53bf52-b517-4347-adc6-07cf30c19025"
+        },
+        "Hash": "108c08a1c707897987c1d9a47c4c850eb79a357e9aef85e28c1553cece052391"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "friday-the-bigsboy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "176",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "05ec3aae-7da8-4125-93fb-6fc544e5bc61"
+        },
+        "Hash": "da1c94cbb347aa178eb946f03d7761728ce9391a80052e1297385005f50f0b76"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kweku-the-planter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "177",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "af53bf52-b517-4347-adc6-07cf30c19025"
+        },
+        "Hash": "c59179390ccd0b989af25ddafe13c14da93138a93b739c7584a0a4b17f6c1edc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "2pac-the-remix",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "178",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9993e5ec-2f31-485c-9c6d-f780c078ae56"
+        },
+        "Hash": "4f558f9751e1700b1920d9cb255ae01cf301182be18cbf17378e28bbeea98ddd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tope-the-influencer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "179",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3b3e1f66-922b-4f87-8cdb-0d09fc143182"
+        },
+        "Hash": "b476c8cb3ba51f983321b72b9ba0e4dff46367292233eb56adc63728671b8e30"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "gabby-the-evangelist",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "180",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ac721b71-cbc5-425c-851f-ee826973f0b9"
+        },
+        "Hash": "d161703d421ee79908108ce127c958ac22dc1c7bd7a964a2c55e2060f49d5eca"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "beauty-of-town",
+        "minting tool": "TEAM CRANKSHAFT",
+        "sensitive_content": false,
+        "series_number": "181",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241a1be-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "1d211763edcf51cf721059a579a6eba291836f89515b2b29c5bde0a6e04bfa17"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lola-babe",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "182",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241a664-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "cbc82d2f5bd21893958a689f960a1fcad15852bdcacfb78a17daf91c07a743fe"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "cardy_h-sharp-babe",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "183",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241a7c2-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "b1a2b2b93d5d23479807d397ce6aa671f514b9125607819fef63ff62c176998e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bella-the-baller",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "184",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241ad26-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "7e84f7397ba35b2c77dd24e9e5c48efb19fc0c48d8342eead5ec771069d11527"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "milly-of-roses",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "185",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241af92-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "d34c3b6f48c6ac989389cd22b1212c0d0def07e2ad76f19f3ce73d3490fddf3d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "preciousjada-the-viper",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "186",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241b12c-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "a4cf4ebe0ad323cde656e5afa0f94c88ac43cfd8418e7417f9d2bda59c8ef1a4"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lolly-of-ny",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "187",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241b2ee-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "f4dcfe56c99b265155b99fbb8cb1c3081ada756532472eec91fce40663b312f1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "disy-the-dancer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "188",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241b4c4-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "e6ee3c44617ea848ae6932b8e09cc0ba4c7de653acc9b3f1a9bfcd9821893f1a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jenny-the-great",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "189",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241b852-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "fafc3527a592f4306732de0dada4e00f1e4cebcf547057d99b9a74b1de3adfc2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lolly-the-pop",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "190",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241ba00-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "b71dd31042867be67848aafa4e46fca5838d3aac1123e48e459529dff150635a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "disy-the-queen",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "191",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241bda2-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "1f82460daca8d9b14119b7f4a1a0c8f16cad2af7ea105335e9965de0809ea282"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jennyp-of-lagos",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "192",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241bf1e-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "7e1bf315ae898dfb3cd5ddc7a175b222d6e49acbf3010394118788f5689784a0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jada-of-life",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "193",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241c202-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "2ed287138a11a8c40e3bf08f7304591b66dec439ac8c029968aa288c81f20507"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sandy-the-rapper",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "194",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241c342-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "41aa970560f6e5556e065b4b97168cfa97730ef7efb1fca2c30b2e2c52a74cf1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "dahila-the-genius",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "195",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241c4fa-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "ae381d08944a3a9951d93c52c4a59fd9844f77346ab2f56571db9cedb98c9dfa"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "rosemary-of-yaba",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "196",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241c61c-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "5c9b4f2fe983eee5b5a6a448b1152f7528d8771e2faa06671686d358ddc46655"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jennifer-of -island",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "197",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241ca18-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "8e93b7f711a104794a740b2f0b613ffe79bbb612d9fc9600c8c86b6258bb0400"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "opeyemi-of-lekki",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "198",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241c8e2-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "adfd420ad36fbbc4d86cb56f6e6cac2323bb7e3714b9ac610bc788cec235ad38"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "vicky-the-artist",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "199",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241cb3a-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "b1d9f6e1e8cf8534c951c2dee64f2ce4c0d73d040fca4e4bc673e3bf7e714730"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "afrogirl-sailor",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "200",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7241cc66-59da-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "32abc94cdd760a0d8395d1b462170eb68fa003e76148cab94e4a0d0c80d08955"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ahmed-the-merchant",
+        "minting tool": "TEAM GEAR",
+        "sensitive_content": false,
+        "series_number": "201",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9996ecb6-4d92-4b51-bc50-d962f68f1ecc"
+        },
+        "Hash": "9bb19d135da77ed3fcce645a76f0643b541cd8c3a7bbe4718eed8cef4dbd3932"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "blind-tonia",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "202",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4a5f4c6d-d0dd-4b71-b095-86ef11910962"
+        },
+        "Hash": "df919e6400f03b86983fd8d449c340a7f71f84144daf2d492f96f0ab85ea6c91"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "buffy-the-vampire",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "203",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "bd329fd7-dd90-4180-a7a7-03e2d41535cb"
+        },
+        "Hash": "65a14dd0508c81d79ef2a50c1437b10bb2f12eb1e3307d004733e37625c3eadc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "caro-lipstick",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "204",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a34d7a7b-d8f6-46fb-9abc-6d6d7293fffb"
+        },
+        "Hash": "fff220d88b0c749f7c505d08c40505c55e29dddf772f439d80487b31e268be9d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "charity-the-maid",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "205",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "22286b60-5f7b-4df3-8cb1-187d02fb83d0"
+        },
+        "Hash": "a6b7e123a76737b7b770be69a1487eac80acaa02f3e4fa1e1dfa644cde705113"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "charity-with-fakehair",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "206",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "efc0f7f5-d90b-46cc-be0b-6fcaa23a5422"
+        },
+        "Hash": "4c62d99b6c32803c6203086899a88b0b7c2e39c0276404869a8896f434723502"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "daniel-the-hustler",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "207",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "355be0ea-e500-41e1-add4-ce868759bb72"
+        },
+        "Hash": "050c80e2f1bb73645725fdcd48a4b96fbc6aca537d363c113a9886ca7400fc5e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "grandma-nanny",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "208",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ec8fe198-5c45-42a6-a909-4cfbcbbf6519"
+        },
+        "Hash": "9107eb8e7ec1615cb0082dc732327be9c8af0f98b967d1bfa9385bddbe90510a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "granpa-willy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "209",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "facf7001-d028-4e00-bffc-ed1f7c005ecc"
+        },
+        "Hash": "4485c925ccfd94a67c0fc4409d3d7167200d44a3ffeecef5aae67f277816af0c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "joshua-gang-leader",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "210",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cc3c5c06-df96-4a0d-a09f-3359c21191f6"
+        },
+        "Hash": "1604f172289e3226f0ab009b9cc53a5d0492f2d1651e22fcb1135db9e871a327"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "karashika-queen",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "211",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "6e697e86-def8-4fb4-96c9-0f43ab9beea6"
+        },
+        "Hash": "71d31aaa43fedac94c8a4e5efdf69c67284c095a1aa03183a76bc3d0eaf75fbf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "king-of-baldmen",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "212",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5142f00b-10b5-47a5-ab8a-8ae71b255b04"
+        },
+        "Hash": "049b5e81e3f4fdb6aae0544f68a55da09bfc64e1552233d7835bce14e23236f3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "musa-masked-mouth",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "213",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9a5e7e95-6552-4a92-ab18-2154678943c2"
+        },
+        "Hash": "06eb4c757beb8359c6d2159fe19d0f0a2af324811c1d605e6c5a1596d3eecaa2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "queen-of-smokers",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "214",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "eb32dfc0-29ee-49db-8833-37a41a6d6d65"
+        },
+        "Hash": "2bcd47a170739cb1245d23797bafdec7141b8f4cef1fecf9eafc3af832ac5ffe"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "redlips-man",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "215",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4d649c12-05a5-44a4-b4ef-eb285b291aff"
+        },
+        "Hash": "318320ad709e3ffb5908a4f8b57b4b60ea807356dbd7dc2de7b99876df909b02"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sleevless-maid",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "216",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1cec0f65-2ee4-41a9-a30a-1f7aa9ccd112"
+        },
+        "Hash": "c6945040a969195793d9beabdfb523bdbd373710b7aef08fe47a951fd48b0130"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "stephen-bluecap",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "217",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9b9de982-0f87-47ee-ae95-0b69b48d0cdf"
+        },
+        "Hash": "551ebd53eab0f90a872f7ad633c90b3101ccdaefe1cf0c9c61aefa6a8ca24fac"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tinubu-gateman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "218",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c587932b-0b8c-4f70-8465-425a1f53df64"
+        },
+        "Hash": "5c6e8547fdd303d77eb35f4aa1886103d171e04a362c105e6212433f10dd6057"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "vampire-girl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "219",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3bba4477-d84a-440f-af66-12690ea8b2e4"
+        },
+        "Hash": "54c257daa3922b707689749181989bc7cba9deaf751fae2ca7cfc5c9bd1fc725"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "yusuf-the-smoker",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "220",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "2af7b970-e212-4627-b818-13c00c8d3a72"
+        },
+        "Hash": "9b42828151d151dbe9516128448853da4fd5860e40285a318c86b11a488ea14c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lola-hng-newbie",
+        "minting tool": "TEAM TAPE",
+        "sensitive_content": false,
+        "series_number": "221",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0ddbd22c-b3bb-4c72-9f51-0361480bbfa7"
+        },
+        "Hash": "02bbb63ebe392a50f416c0600262b11136b1af739559140e102fd735d8cd3d4b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nene-caroline",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "222",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4ce5bcf3-d4ed-4277-8187-cb1797c1ac7e"
+        },
+        "Hash": "3600c7e05204d9acec1cf7da95a277ebff42060c5dbf95548700270b711b90c7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wazo-partystopper",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "223",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "77237cce-bae0-4d60-adad-27055f0eed39"
+        },
+        "Hash": "0e3e740dc76c808db53b9421080beb1071d2a504baa8d1fc5688229629de5597"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "melanin-janet",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "224",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a5a2854e-a850-4b15-b3c3-176a79b2d34b"
+        },
+        "Hash": "c74264d470657e78788b117efc4e1d55958c935e5a264fb612d7214006489d6f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "leo-sugarmummy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "225",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7ec03993-f500-4a41-aa3c-a73df7a0fbed"
+        },
+        "Hash": "13b9fd79503b5f68f439354cef3b52014f65efebe6cd221558682f7a2707f1f1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "novice-joane",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "226",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a5d49163-41b1-43fe-ad7f-0c78ef530b1a"
+        },
+        "Hash": "93d8789ec80dff512a75a3742664999b8befcf566e1ab4b9736862cf9a87667b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "goofy-simbi",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "227",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "df7dc588-f99c-4592-84f6-08b40047d9d1"
+        },
+        "Hash": "ef323a31e8e5b6fbe64f25006b7fb7efba3b7a317b232fbd0f5d9695b2075f22"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "akwaaba-ghana",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "228",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d1e8b38b-994b-487c-890b-9034d3ab7dcb"
+        },
+        "Hash": "24cb174311007b8c7f74450183bf08a01a4a955acc8dca19cda0224d79f4b512"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "aunty-toyin",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "229",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1326ef4b-224a-497e-9452-e63a4486e387"
+        },
+        "Hash": "5e5ef64f23995d5b62805fdf506d3268469d983f644b90cde3fbb58fe293d4ab"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "pretty-hauwa",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "230",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7c771f82-a512-403c-91b9-6736318a8796"
+        },
+        "Hash": "bd3276f0a60e3b00e0f056ea40a1aa73fcb6bee937727f9f5dbade5b46ebed59"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chimamanda-enugu",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "231",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "eaad5c98-3f85-4480-9c4e-b73340cfba4f"
+        },
+        "Hash": "5758aafd4e5bcac7c3c62fe4c9c24d055f276c0aca0fb59ae2828f6c0eaad7bc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kente-solape",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "232",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "613ce65c-4b16-43f8-a0d9-b5ea8c5f2195"
+        },
+        "Hash": "4f9b42d3461286d6ebb70617e38bb6c0f045b481162670d8679705a5a1c01d94"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "vamp-karishika",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "233",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c4ee8a54-0874-4a7f-8344-dea8ba41f5dc"
+        },
+        "Hash": "86543ed5929d7b56d614ce1c637a71e69597e4dc779580bc83ad0b926f6ed40f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "genz-monique",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "234",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b5328f13-b918-4e76-8d4c-8b4aec5eb5fe"
+        },
+        "Hash": "a89cfbc3e8a879f49162af8c594e9c35bfca009d3ad95a3eb4b00d7d6a3e62bf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "femi-boltz",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "235",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "03e8d36d-5bdc-4da4-8f64-c1738eb9d1db"
+        },
+        "Hash": "9bd717588a03eaf398bd3d98aa5a77c70fc8d60f52ea572c9f19512673ca5091"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "agba-tech",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "236",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "403f28a0-6aa7-4f80-997f-b0982c169baa"
+        },
+        "Hash": "dce636439aeb88c26fca7d30055c97d7f599832dc6d37d51a5e4592db0647bf5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "brian-richkid",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "237",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9d945d79-dd2d-4755-b9c7-bff837be8557"
+        },
+        "Hash": "06f79c86b07f490007c36756b5315c6595b9f1bbd85c9e8062527eaeb0e611ed"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nandi-zulu",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "238",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "09702bc0-d10c-48d3-a1e9-2aaa4e9f3f39"
+        },
+        "Hash": "a7edd22b757921c4fc3cfa5ed41868305f1072282ff9916fab772ae04de5047e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ade-demon",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "239",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0be2d50b-3e57-4e39-a199-b211d2be860c"
+        },
+        "Hash": "afc3331f982bf8e4e1141d0e72f0b336fdbd23e531027e58659ddec410d0102f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "karim-rapper",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "240",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "169b58f8-b84a-4ab3-a4b6-d1c5b36aa1d3"
+        },
+        "Hash": "a5a926f795a82e468ecd1f10c4d52ece14e208bae24f4ebf0e04a510ca58fcc6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bobo-alinco",
+        "minting tool": "TEAM AXLE",
+        "sensitive_content": false,
+        "series_number": "241",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "17e90692-26ec-4ac5-8613-d87d00278d37"
+        },
+        "Hash": "20dd51eb21407816a60c905c7b99d511a787b7827e51c757df4ffdcecb84b100"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chi-lastborn",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "242",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "187b9001-81a7-421b-aeea-ba64f930f6c3"
+        },
+        "Hash": "e8325cca47702788033b1b8f48e457d00f054f4f8f52027b17c25fd86146b3bd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "uju-robo-robo",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "243",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "8b98de66-9a2b-4229-b0d9-297b2906f548"
+        },
+        "Hash": "b50e20ad32e397949f0130a6f1c7c114b6b11e42f3b6de9c9444993673f38de9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "yetunde-anifowose",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "244",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5646daa8-2619-46a5-ac93-9a49f862729a"
+        },
+        "Hash": "ce0e58a267d0730c1a0d46fe989d5f7d24184c670d51dd61f5113bbb45f46b05"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "dumebi-jjc",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "245",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ed0148f9-491b-44e5-9b3b-07d3e8a48efe"
+        },
+        "Hash": "a0e6687f85905704682c287d3b3246290962f677e854398e076eb6013110a72b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ukwu-nengi",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "246",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "32a9fc99-8b86-407d-9d66-2c9aaa8200e8"
+        },
+        "Hash": "14eb0f78ac84af76a57395c8aec1cf3b5ff344cd5127aa29e9c040015a9a35b1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nonso-malay",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "247",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "573f741e-7dfd-4145-a532-2cbf0194c5bd"
+        },
+        "Hash": "aef427ac22c29148752f41c10ebcfbe3e66add1d420551b086d53c4847818675"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "saro-texaco",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "248",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ba8a51d0-24d6-43fe-bf56-12eb50f6fc4a"
+        },
+        "Hash": "84f18acedb0f0e713b794298da6fd5d5e9df340d27cceec0e9a9aedb733bb2ec"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "akpos-agbero",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "249",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "70875603-9e90-467f-9d44-af15f71b70e9"
+        },
+        "Hash": "4e0abc5b48e7a06b1c350346fa31cb1cf27291a80d3fa31b45ec4d85dc9a0ba8"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kasali-danfo",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "250",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "afaa2a41-1bc0-47bf-acef-d9638d6c5369"
+        },
+        "Hash": "492f752ea1eca8fbc94f46ea6b3876663985484bb7788df0c1c17a54ab8281fa"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "osaz-benz",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "251",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a11e8485-d8dd-4970-b0d3-cde7ab9f53e3"
+        },
+        "Hash": "b43c28ad48dd2e41b29e49b43ed774971d96b5bc62922eb5bb5f71611e55d251"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kareem-kasanova",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "252",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9b765dd9-5d2f-4050-9583-4200e4b2d5d4"
+        },
+        "Hash": "5252218009f90dc1dbb04d6c32b914b316f0976b8c80dd74f87eac7b695c8462"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mayor-of-uyo",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "253",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "6ae4ca87-8d71-48e5-8098-fc5241a0ba36"
+        },
+        "Hash": "16ef536d3c211f7041da1c5369412a9d72d57ff042de0f76e71b9928490b7c8b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chinedu-china",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "254",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "76a09cf1-b5fd-4bc0-bf61-0c0b9024b264"
+        },
+        "Hash": "274c6be080ee51566f3381fe836d7db3f945525751b848b0355b1d0d141190e9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "papa-ekene",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "255",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "8b8d34d0-3d41-4170-aa3f-755beae83b00"
+        },
+        "Hash": "f3db0bad9fc16ac60904016ab29755bf42e28ccece7e8f089bd5eb0e1d9ada5c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ogbeni-rauf",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "256",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "048f1180-33be-4a58-881e-22e7f0f96455"
+        },
+        "Hash": "34bb8bb482d684f63e006420ec284084f8019c72a238034944a42720fbce653f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "koffi-banku",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "257",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9699105f-607a-4c0b-81c0-373c6d35f4fe"
+        },
+        "Hash": "ef7cb2a28d0881e36d40e08695d4087fb5e8d9bd61e8638c51474e11fc282231"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "alhaji-bello",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "258",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1f0839dd-b4c9-4adb-9328-a2b4ceff999b"
+        },
+        "Hash": "ce7aa65da641ffcb100fc11608751fcef464678280c982d943cbe3c46f265665"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "toju-mafejopami",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "259",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3c733806-3fd3-4c49-afd1-97f6a0802485"
+        },
+        "Hash": "6848af530b2047e8c81ec5448bee2d0b21d130865b6acc8e910158e824808e2d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "femi-maserati",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "260",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dc5bb7ae-6280-4038-a0cc-6f7ba98bc5cf"
+        },
+        "Hash": "26f11adb5be8d9d4e686ca2d8bfb550a45c8ba88e8ac65295aecf8d4c2e0da82"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "paul-the-comedian",
+        "minting tool": "TEAM POWERDRILL",
+        "sensitive_content": false,
+        "series_number": "261",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "f8112915-64ca-41e5-9ca4-5b60c47d7a01"
+        },
+        "Hash": "16c90a473ffed9ff5b2ef1cc2d597cce69f306a14799eccee7286a90beb15172"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "amina-lagos-housewife",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "262",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5612f542-d85e-4a2c-8661-20553dfd07bf"
+        },
+        "Hash": "7881bbe1c9c7beb9c590f94d7ac0eb49228711e9d5e55e14c38a19f0b5650ae6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kiekie-the-asoebibella",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "263",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "097014d5-0ef3-46f5-9a9b-5c01f70114b3"
+        },
+        "Hash": "9877c4d8447004fc05c40651cf4bb9f0df1bc3cf6092f9d03a06ca36b0c735d5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kunle-the-hunter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "264",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b0310fc2-4bed-48e5-abfc-566c964786d7"
+        },
+        "Hash": "18fdc044507f0ba72de70b40302b5f098b43762cb65cc186159886f84fbbeac3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "amara-the-hairstylist",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "265",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "412345b9-7e04-4102-af7c-5458721ac64d"
+        },
+        "Hash": "a9421f56b356666b4eb76d0d26d8439863c0205fe9cbaecd440a99b3f457c530"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mary-nail-technician",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "266",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "17ea9c3b-c90f-4023-84d6-d563c098b030"
+        },
+        "Hash": "073bcb05f0b3292a9194c91fe79e59fb7c30fb3099868eadc9c2a72217b4d6c7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "odogwu-oil-contractor",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "267",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b503bbfb-f972-4d4a-9352-e9dfe6671d36"
+        },
+        "Hash": "046dbe10eec5c7bdf6864d935f232102d4e66831b6efda52179ff1d657f11760"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "simisola-the-kenteprincess",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "268",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "45843017-b421-4413-8e35-7a6ef073f2b9"
+        },
+        "Hash": "3ea8d955d4703d1856ea5d9e775a55538763c1447f392c4a5dc9561cb6d2de7f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mariam-beauty-queen",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "269",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b7d96d97-84c2-485f-b60e-e4e86c4d3b34"
+        },
+        "Hash": "ed90ed8b037489563753a9ee8123ed9f564c1d33c833916d27b0565836448737"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "obinna-the-musician",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "270",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "afdb0299-327c-46b2-9262-faf90f0fcd12"
+        },
+        "Hash": "68579113b83ed9a8713ff0b4516246ce413463377c54e389d6f86e81bbfdbd9c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sandra-the-shybaby",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "271",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "bfed40a8-74f7-4ada-ae18-975130247efa"
+        },
+        "Hash": "cfeb01900d66f8b8083a4b3e3575bf4466ba2c4b5a402129ab1803fc4f8f180c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chiamaka-the-dancer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "272",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "43c49497-8d7b-42ef-bb29-769f6c3b0ada"
+        },
+        "Hash": "0338fc28ef5f6b3659ae531ecad7387c32beff63a8ae59b5b3cb0d93a5dfd9ea"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mensah-fashion-icon",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "273",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "87ada09b-38ac-475c-8d46-18680c2dc795"
+        },
+        "Hash": "e157191992a2bb17f57a7ee663a7fd831405af3c6cf7b24a92a1b5643b958edf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lucy-the-fumigator",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "274",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c7269d44-aab3-41e7-a54f-18a14f575a6b"
+        },
+        "Hash": "faa45a0ed754897b1f2d12269d81ed08458b2365e7d8accc3c6ff946182fabe6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nneka-wedding-planner",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "275",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "31ac6b7a-e378-4dc3-999d-b9e8d8473f99"
+        },
+        "Hash": "29a16e0a77cb397e5a4bafd0d0423615f7888e9db30080967bc5a5d30fa76065"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "shakira-the-gangster",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "276",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dbdc1351-aa07-46e2-935f-2db071b1b23d"
+        },
+        "Hash": "afc45e4d64bd59669e8d9a3d48df551457a1112d5aa4854b0e021dfd4943b44a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lola-afropopping-princess",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "277",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "2f5cadae-e423-4478-8220-37b3ac144169"
+        },
+        "Hash": "1d5d9b10ffd06cbdb94fb18aa13a67ba1eed8ff4ac2f9cc15de8288bc9bce84a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sharon-walking-dead",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "278",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1fc37341-7dd1-480c-a01b-a63bee0a2230"
+        },
+        "Hash": "fe3674e8dba20af7c9dba562f12957d91fe072dc40b29392f479e05ccd50be0a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "olivia-great-teacher",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "279",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cfc4419e-bd46-40f6-9654-632ac1138ff1"
+        },
+        "Hash": "46fb807f3eb67c722b9e31cae220316c038d51e650323acf30c0a16105e034d6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nicole-sleep-warrior",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "280",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "710ae821-4603-4124-bd60-a33b515b3b8d"
+        },
+        "Hash": "ec41ac078c6ac610c4f68209e7ae0e621a05173fdc4a5b4681294736af181dec"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "busola-the-shakara",
+        "minting tool": "TEAM HYDRAULICS",
+        "sensitive_content": false,
+        "series_number": "281",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ec4a855a-5ceb-4f1b-bbd7-a995aa45e875"
+        },
+        "Hash": "f2b307bd30cb815e65e63e6aaad298dc1b77e3202ea268f15ecc2cf7e431f03c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bella-the-artist",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "282",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "48772412-dacb-4984-9e82-8d24fe101265"
+        },
+        "Hash": "48d9bfdeccb932bf3eb26732191772702d56cb12910dfcbbad14a04b65d9ea76"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "queen-the-extrovert",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "283",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1712532a-20d9-4ccb-8582-bffd76c9fb67"
+        },
+        "Hash": "70e032a9a07aa8235523829775293d0dc14c44a7ebd2a056f42a467c83c6cee7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mary-toxic-lady",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "284",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "bc31af8d-c45d-4797-adfc-596fb22e4e3a"
+        },
+        "Hash": "5b2e291ec335bc8b58fd98ae27aad7a12c54c7653837b9719a95cd8579053bef"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "elizabeth-the-richkid",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "285",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "21fad782-1b6f-4c2d-b157-9fdb9355c876"
+        },
+        "Hash": "8bf694813e8f28264d88af4a4ce142a89cabe19bbae722892a14a0a01b5aaffb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "larry-the-westerner",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "286",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d4984fa6-dabf-409f-839f-76742ec71500"
+        },
+        "Hash": "a196e5db04e61ea414fc1e91e36fecc4fc663029a7ffe80c6e08efc7a6ebf938"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "danjuma-the-shocked",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "287",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0187ca7f-f3b1-42ae-9e17-c46d58617608"
+        },
+        "Hash": "f87798bb1ffefe8d4d6da033f6870ad945b18f7ba6e0cc9058d4adf7b8bbc4f3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "yomi-the-fashionista",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "288",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "16d256ba-dc4e-4559-ae41-59779f351ad3"
+        },
+        "Hash": "2a71b47ec10792d55ef6b93aa7bc524e5388dc88ba969fe9caebfd488d212a53"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ibu-the-importer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "289",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d3edc876-3f2f-4699-a376-0787bb06c5d5"
+        },
+        "Hash": "dea9678e522896f79633aaeb92ac66afaa3adc14fccaea4ecda2c150b89215fb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "massa-the-ghanian",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "290",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9a9a5fbd-7a3c-469c-95f2-50303c2e9fc8"
+        },
+        "Hash": "786a0b707618bacc66f8f99291c6e5f85be0fedf4df0cb0570342d725b3b9e4f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "james-the-musician",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "291",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0d4ad447-3836-47cd-8387-066b200cda01"
+        },
+        "Hash": "bc48a56837eab29b5bdee1fa7966e2d71bae86a9b54ec02f242a619f72d51747"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "gbenga-titled-man",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "292",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dc6c1a39-ec78-44ca-8296-68c6de7b5de4"
+        },
+        "Hash": "9c1e2120cf86437e7ace68054dd30f5314eed007ff058a9e4a120f79c56dcab5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "abaga-the-rapper",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "293",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c428411c-5a06-4b74-bd17-e53b76f9fc6c"
+        },
+        "Hash": "763de0109ca59952a7fd3f4fa95af7f8ce140826855cc0449763840a87f72f7b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "izuchukwu-the-fisherman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "294",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "15e1caf2-06b3-45d8-9b35-f95965b64e34"
+        },
+        "Hash": "65fecc29e2e1a6026da7322d5872577f56a81aadd435a5c47506babdbff620bb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mark-the-philanthropist",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "295",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b48cbd98-96c2-4ec4-9d17-2c798be5b90f"
+        },
+        "Hash": "bd658cde31a55e603ec52a2baf38d5d8dde6d6384587b5994a27507be9ccab46"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "desmond-the-politician",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "296",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c52d4fbb-622b-4e2b-85a9-1a1d0f3d97d6"
+        },
+        "Hash": "e12313bd1da590fb1ffde145ea6e6e6dc35ccce845413edba1b90a81b57bcbcd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "okoro-the-bachelor",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "297",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e441439d-49a3-41eb-bf9d-3c7f98c268bf"
+        },
+        "Hash": "46dd85d45b6e3c5904f8c009fb2e7f8f3a983e3be3303caa87d29728ff649519"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "saro-the-clothemaker",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "298",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7e10af4e-1252-4f96-83a8-78411e152bae"
+        },
+        "Hash": "7009e02f590d339143661643331a833ee0fc5c37e7a0afbd60845ef860e07c15"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kalu-the-ichie",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "299",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "482ab247-73a4-4ff8-9172-732f3d0729b8"
+        },
+        "Hash": "919b3da168d471fbfd264061e960fa7b06301101f3304f95c28fd4b384092155"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tamuno-the-prince",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "300",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "108447d1-f2d5-4816-8ebb-599286c3fabf"
+        },
+        "Hash": "96c4dfc5a27b0cb67688e5f37a8c3d5e2aee392eb7f794aa583d5e9976a642f7"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wendy-the -banker",
+        "minting tool": "TEAM SCALE",
+        "sensitive_content": false,
+        "series_number": "301",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "587645e2-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "03776b643265b417eae7bde3bc8f4b7ef3a44dc19589ddefb2b2f969979841fc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "uduak-the -dark horse",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "302",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58764862-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "a08d87cc3125ac216890ac7bf494d0664651559226d2d27eefe1223ea2b84d30"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "timeyin-the -eccentic",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "303",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58764a2e-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "b00005b0f7547c78acd03c14962be15b506cec87c78c9c38feedea7ada9d54bc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "omawunmi-the -businesswoman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "304",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58764b78-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "c7df4323008f2a10322ad9d1e759f9a8268fcfc03a756cfc23d815a199da163e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "halima-the-housewife",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "305",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58764d8a-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "c785c268440988fe3656b6ee5074710f88293340707958659c49d4a01c5caa5a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "muna-the -block sister",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "306",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58764ea2-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "da13e6b21f253363a38d396fbbca1ffc41e1c84ca89a81c53c0487c1cefd4a42"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "stella-the -gossip",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "307",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58764fd8-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "366a029c8bf8692769cff6d5f1e82940fe00f4c4a99ad5b871023c0e242a60bd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "agbani-the-wannabe",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "308",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5876542e-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "eb22eab7fdd9c8063e1e47088bd3bf3188347a2d88db0bc37fcc0235d73ecfe4"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "asante-the -warrior",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "309",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58765578-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "70ce03320251df1a8384bdea655d1c4c9daa479d31f544adc8b3069f1fa857d9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "hilda-the -insomaniac",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "310",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5876569a-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "51956949d446a5c8a57518fb5b34567806bdf73c874e0c9bb9042d4c1bd96d66"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sisi yemi-the -street aunty",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "311",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "587657a8-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "fcae18d1ce86f71108140b4b53f8c6ecfaee62addd00f181f85176195540d9dd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chiamaka-the -bully",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "312",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "587658ca-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "f8f8c479328c409b748c081f0e2b8d511277b693b005cef4b1a7b87c5ca45adf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "gift-the-fashionista",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "313",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58765adc-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "93185d0337161e93a409b56bb0615e01ecb752c9f8a95416cad5d6e3c56a48f2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "omoyene-the-weirdo",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "314",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58765bea-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "0ffef6e4c31c7cd5bbd065515ef494d83bf3109ffe9366379abca1a2ec952727"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "maria-the -freshface",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "315",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58765d02-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "a1a23a8df735bc9a6880911b816ce4c6d99470b5c9b8f5255434d5334559d2c6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "monica-the -smoker",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "316",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "58765e24-5ace-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "46c7bf06ac80a6b078ae795e95224fce56cd7fd70b068896ec001840fb9e3cfe"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "janet -is always -found singing ",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "317",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cef902bc-5afc-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "77d5bb9e12c102d7c22e5dfc9128d47ae69831e6b3d489e1f22b8eb892d9d7db"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "emi-the-reggae-girl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "318",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cef9060e-5afc-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "66e8df74301694ab9a3f5c8d346e69283f21bb790f4e61749252d14b4199efce"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "aisha-love-the-life-of-the-party",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "319",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cef907a8-5afc-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "247e3857dce38bc27d5da42714dcc5374b39a8f1b0ffc852fb03f70512aa53a6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "amaka-the-tailor",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "320",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cef9091a-5afc-11ed-9b6a-0242ac120002"
+        },
+        "Hash": "ad3c9f4ffcfdc44776ff02a8dfb3976ec0a7d490106d55b289e236e06ce0ebe3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "omunyinyi-the-stoic",
+        "minting tool": "TEAM SANDPAPER",
+        "sensitive_content": false,
+        "series_number": "321",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c2d6a3ac-1d4d-4268-ba7f-4f0f8f50c1ab"
+        },
+        "Hash": "f62ca418dcd341ef98bfec88c8fc71ee0947519a5af4f1bdf7da3f2975a73b0a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kamau-the-sleeper",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "322",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "20330f5c-40c2-4f6a-b9d8-d1d04fb97daf"
+        },
+        "Hash": "a7ee387fba4393e2247a41917ca202f9d1ef2c2b432429dafb0f2f05ec4c45d9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mutiso-the-lastborn",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "323",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0706c338-42eb-4d26-84ea-c24b39628200"
+        },
+        "Hash": "bba4c450e04efbe2bae8a4f272e457cb1b46b408ccd6526bc1a71a6555985764"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "omondi-the-vegeterian",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "324",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "bfb5e8d5-d7a7-4aa8-85e8-d7d9afd4adb3"
+        },
+        "Hash": "41589e9c447d4c1e6a0d8bea150c20f05d4aa44023544bc0050db7392a90fb90"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "barasa-the-optimist",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "325",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "2da4bef4-38cc-4414-99ad-7361fac04b2b"
+        },
+        "Hash": "efc3df72b6d5e7aac8c34892ae4d5ea5543260f8170afd07d89b12c62989b392"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mwembu-the-elder",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "326",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "36181230-6ac9-417f-af5c-23bdd2c25ecb"
+        },
+        "Hash": "61b23a22abe2773e01b77ea9bba23135e5d66ab79db2d6b0ce08fbaee22ece9b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mbogi-the-fighter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "327",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3a7bc3c4-1463-42ce-84c9-07337da64435"
+        },
+        "Hash": "149a13affadb871d86603f86b1c4b58f172da309d8f416d3c6cac6b3c0393c20"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mrosho-the-runner",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "328",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b2ca2c76-3b6d-43f1-8cc9-089b6ab83876"
+        },
+        "Hash": "c3e4d5f74b0a510536e76fce1f8496ba70172a54c9989d0ff051acaeb6c028a5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "milele-the-african",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "329",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "644b0259-d75c-456d-934c-ce7c052bad3a"
+        },
+        "Hash": "07bd7a57c87eda74cfa388edd97bd1110a8e23e70b243e1db7ef7d15b710e68b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "olebon-the-oloibon",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "330",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "de261efe-731d-461e-b2e4-42edd2f48f72"
+        },
+        "Hash": "1a8ed6fa5b027a030c059a9411edd7ad6c9289a5a62659f566a4508c1aa64d9a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chifu-the-maasai",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "331",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "239933c4-7177-4b5b-86e8-e6f952301344"
+        },
+        "Hash": "372197176e199706d59100550008ff8b618719715ce67f83a575b9b065fd7e25"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mwangaa-the-voice",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "332",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "49179b62-812d-4d0f-b518-4af7fa79f8bc"
+        },
+        "Hash": "7ea5926a021b2020903e10c6c047595800e9d5bb1339950a5bbaf65d33b5be28"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "waforte-the-first",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "333",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "871912a8-d96e-4594-b7b3-450d94ee6924"
+        },
+        "Hash": "355a2c2e74eb90d6684ebac8ccff07eb52c26c6848d930292d155f99e2f721e3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kariuki-the-prayerful-one",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "334",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "6a5b6fa6-0f91-4b01-957f-c766945eb704"
+        },
+        "Hash": "be873492037fce8eaafb8ab477d24618184b763f66d0210eee884a01b50a75c1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kenyanese-the-priest",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "335",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0706c338-42eb-4d26-84ea-c24b39628200"
+        },
+        "Hash": "beb3948f64641c9ace1e6913c76ffc90db8c098bf0faea287a72be16b5eb31a4"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nyimbo-the-singer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "336",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d05af807-b3e9-4ad3-8df1-b7864d2daa33"
+        },
+        "Hash": "74724c9dc30360325e97f4808322d53ec3452901a5d426d61040f0de44291722"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "maathai-the-nobel-winner",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "337",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0871cb8c-8d56-445d-92c7-01793f327707"
+        },
+        "Hash": "677a912f98b17d3cfbd74c4a9e59fa2b94b556582a65d1e3dd6dc4581750ac49"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tish-the-angry-one",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "338",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "750a89dc-44ff-43bf-8211-b7776f1b5e52"
+        },
+        "Hash": "370014754bd4ddc468e0da400b613526eb1096a923b8992ac4fabffd19911df2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wamenza-the-winner",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "339",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7348c9ed-4ac9-4785-9434-0a1f0dcaf8d8"
+        },
+        "Hash": "76f0cdee90cd8d5983085b9c9fe2012788c67e1385929e02cc42edc5162dc6ba"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "isaya-the-track-king",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "340",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "41781a16-d2b8-4fc6-a1f4-b9fffc5c95ba"
+        },
+        "Hash": "3ec14438d9dc35c7066869891c4062ba7cd5fe40b60b1a2f9bbf805f177592c8"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mansur-the-partyrider",
+        "minting tool": "TEAM RULER",
+        "sensitive_content": false,
+        "series_number": "341",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "78db0f29-3936-4d9c-bb90-3dbf20dba2dd"
+        },
+        "Hash": "5cc92a19cd2f788c1ca5da4d911e6b7705cb0334e772cadc28799d49d4a95ce6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tola-the-businessman",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "342",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1c5d5a6b-cf04-4bf9-978e-22a7e9bc5819"
+        },
+        "Hash": "42ad8d2ccc53d2cfd8a86c0e409994f5fed7d122057cb4c13ce2b472f2694532"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "abdullahi-the-honorable",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "343",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dd708276-445f-4483-8357-fc08e999328f"
+        },
+        "Hash": "5b8e5e05016ca5f20f8eeb8bdf73b33e1c83b798448cae90a49f30bb032f1b4d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ojukwu-the-badguy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "344",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "76c1eabf-15ea-446a-8426-472982c4d800"
+        },
+        "Hash": "90d66c84f2e21cc7a1d3e06a0a54caac063cd83b841c3d72a4a930732ffe211c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "odunsi-the-egbonadugbo",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "345",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "2912ab8b-5875-4277-a5c2-a0209aee90ae"
+        },
+        "Hash": "5119663fdaca1245f6fcf900a0c09038c859d0bf187ebd7b0dc5266f0b0caf09"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ogogo-the-sugardaddy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "346",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "aa575f30-04ad-45f9-a798-199465117793"
+        },
+        "Hash": "2704b01afb7b37105826d7f6a379601347580d2542f452f80d3f6749c6da5db2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "suli-the-amalaseller",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "347",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "46fd4821-04dd-4f65-9290-c130a00c4c93"
+        },
+        "Hash": "7ae84887a075850d0cfd3255bd13a99052d40c5e967bb9837c2dfc036ca3d1a2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "dolapo-the-afrocentric",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "348",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "cbab232b-5c62-4df8-867b-018a2e496cd4"
+        },
+        "Hash": "eaf44e9fa8f919d093993c518677b0ce28015b6bf00266f0ca5165ae230e667c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "danjuma-the-saddist",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "349",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5a42af57-186e-425b-b6b1-f72bda4911ef"
+        },
+        "Hash": "2d60d04fdca02285d33f334123305a4bdcefab43f4c8457868c039e9c1a75dbc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "chinedu-the-farmer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "350",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9e8a55d7-0d8d-465d-a628-08ddd387a2c6"
+        },
+        "Hash": "7a9e3a6c52e00516484b2f37304a5a2aa2bce93e1bfbd2f8b0e44390fffbc17f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kola-the-baldguy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "351",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c32f1757-da9c-49e8-bd79-510a42b6971a"
+        },
+        "Hash": "7ac96f63f4f2bd55783c3a482e946c0cc0f723910dc88edbe04d94d09915d2c9"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bola-the-bosslady",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "352",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "09ff910d-a2be-49d5-8b27-b9378458701c"
+        },
+        "Hash": "263b4485c01685300b0993e3dd54436fa3777200e57e36a52b8dc2915007d7b0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "kunle-the-alienguy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "353",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dea2f5d8-e3ba-4d3f-9a17-0a7edfd0c100"
+        },
+        "Hash": "4b973bcc951ef41fb16fa24da0991fb666c7f45f365e76fc2f6b1793236e1d8e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "segun-the-sharp",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "354",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "f9159a9c-f48d-4aee-bcc1-63c86209f806"
+        },
+        "Hash": "708eee2f1ecd2b012a4cc9a9a0715c78477c8ed8c35207bb700c1fb1d25059e3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ola-the-hardguy",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "355",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a814fc77-bdfa-4e50-8ba8-3e4e4bcfb3c0"
+        },
+        "Hash": "de9f8b76cf01aacbb47178b85a0e6b5ac7f0428043ef2640a879bc2c7172cffd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "emeka-the-chief",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "356",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "195e89c8-0b6f-43ad-9a2c-d20f03439e96"
+        },
+        "Hash": "654a24afd4ec6058f4ba812314511a235296e66d6472244e52d6487c994e7f36"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ugochukwu-the-celeb",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "357",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "74775cda-cff4-4d21-8819-693127598eca"
+        },
+        "Hash": "8f535ad23f660a9c134f0e0766a939dda4d1c650ff9d20e934c85b97d49bfdb3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "adekunle-the-yorubademon",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "358",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "5c98c2d8-3144-4e08-8a0f-9b8d7e4f5aa7"
+        },
+        "Hash": "58eb6a3603f3be4337059fa919a2f5b412e10d280af16786f8a1a48d95d9d4b3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "favour-the-fashionista",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "359",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "19fc15c3-80fe-4d45-a2fe-be8f087d57c4"
+        },
+        "Hash": "6d1eb9b9b824c7434c15a9d980cd825b529fe87072bbcdc8a264b1db531b7303"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "jane-the-slayqueen",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "360",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "74775cda-cff4-4d21-8819-693127598eca"
+        },
+        "Hash": "3147a4e13766f62c9c1ddf13651dd129256deb5c3f0e3962cd370e2aa0fac5ea"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "osas-the-ceo",
+        "minting tool": "TEAM VBELT",
+        "sensitive_content": false,
+        "series_number": "361",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b10f7e42-4778-49db-820b-dabbad75504a"
+        },
+        "Hash": "e6055879b7918290a23dad8a5ff0abae509ec877871ec77aadb5832279bb64db"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nneka-the-rainbow babe",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "362",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e7e20ab8-03e0-4e0a-80aa-6e193f84426e"
+        },
+        "Hash": "d1b5fb18cab19599d0801aa50f98f7f61df5cd149d31987f1b2e37c66b2e0dc3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "temitope-the-spoilt girl",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "363",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "10cbcbcb-754e-4175-b85d-d0c7eafa16a2"
+        },
+        "Hash": "04ac557304643439f6567c17a2950a7875ae527eb85ff424881d6ed270a859dd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bekeh-the-party animal",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "364",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "f0558235-3043-46e5-b26c-5bde83cc67fb"
+        },
+        "Hash": "330a2a4cba49c4e2cf84796280a2fb9343caaf0dbeb780efea8bb79f6af1e4bb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nana-the-tech lady",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "365",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e0858913-7050-4c4a-a2a0-442a88463334"
+        },
+        "Hash": "2afc4ff171a8747c859e7422b20132038141b38537313de5e7b765fc5c514268"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "rofiat-the-marketer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "366",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1e4d9bda-f6f9-4e7a-9381-bee4b074b56d"
+        },
+        "Hash": "c1970d4f85ce1f0130f83c718c3ab8ee706e1424a8912851b9227c7d80963f30"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "zarifa-the-righteous",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "367",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c6955d16-c343-46bc-9bed-c069ea8cc65a"
+        },
+        "Hash": "d455cedd7ef05301c02bf9412c43bbb422434e387c8cd82a93e2c7e4f101d86e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "modinat-the-troublesome",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "368",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "49eb44e8-1117-463b-b7b3-1bcea4258362"
+        },
+        "Hash": "81fd2578cf2dbf859ca424da931f33335adaa0ccffe8220b19177a9eea214416"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "amaka-our-mummy-g.o",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "369",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "853edc40-0f9d-40c5-ba78-46067dfd7f68"
+        },
+        "Hash": "ee7ce7ce59d515688e9b09648b6155afb26304bc19a982ac76e0255826339305"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "mawusi-the-patient",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "370",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ca9ddc30-141a-493d-851b-71d34f599641"
+        },
+        "Hash": "044bd8ba816168bccaaf29e6482c9ab04d96f409a474dd38e6b86585fb0396d6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nesta-the-difficult",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "371",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "fc3b7ca7-efdb-45b2-b7c9-e69107484a43"
+        },
+        "Hash": "44f3d08b654189ebf147ec6062d3609aca963f31ef4537a23cccae03037b9c61"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "adaora-the-choir mistress",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "372",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "df944505-da1a-424e-88aa-b9d365bd2775"
+        },
+        "Hash": "e37b0f72eb13cbb6f839fd2e71de1424e2807dcc478b10d3a39026b16b9283a5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "busayo-the-husband snatcher",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "373",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "73c8d935-4a71-41d2-a1de-066ae8d548e6"
+        },
+        "Hash": "0b312c1cc1d161af37bc45991bdc6bbbb65c6f7a54b5442a4f1566add34a90ec"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "wangari-the-waitress",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "374",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "4bd7a15b-cc66-4e2d-8fdb-d550f2dd645c"
+        },
+        "Hash": "d4924bdc84b03158ad55b79ce39b0f4e1b4541f2e2431c6fac9cc2d56c212e49"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "charlene-the-shy lady",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "375",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "36539b84-ada0-43cb-92d4-30596e07a39a"
+        },
+        "Hash": "9113d4bbad7e3e62fe8acee6b944be2aac1db05576d90ac7f4adc4a24a888ad1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "addae-the-unretired",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "376",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ced7b53c-73de-4fc7-a652-2b17ebfe68c9"
+        },
+        "Hash": "5004b13f8f8fd75c962b64dae599aa28946588ee19732b0ba1d1eb597b7843bd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "abena-the-slay queen",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "377",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1e4728e1-3e45-4972-9755-4a38e784ff91"
+        },
+        "Hash": "f5b9d867ab8efd2d4845b07a63d0a6de03faa6643cd06be66d316001f2283a2e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "gasira-the-violence mama",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "378",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ea72337f-658f-4198-9ad6-39bc6212c20d"
+        },
+        "Hash": "2a536c6e7023fac32962d278a00b1a584a3aa09909fb0f7e012aefe8a73a86d2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "salamatou-the-exchange student",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "379",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0e216fd1-d96a-4e3c-a59b-c807f772c5b3"
+        },
+        "Hash": "624da97c779f8f8b3d6bb4c5402fab412442227f163132e75601552063eabfbc"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nguyen-the-foreigner",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "380",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "0381301b-b5a3-42c1-9f73-2c43c0b8493f"
+        },
+        "Hash": "a8a214e941dc27773a9142c582a6b758d586507bc09011bc6f607e870f208a87"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "olofi-the-creator",
+        "minting tool": "TEAM AXE",
+        "sensitive_content": false,
+        "series_number": "381",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "26340cc4-e334-494e-a737-f2b4bb9bb22e"
+        },
+        "Hash": "dea16fed28ce3fb8aab2b6d4c89787c4b518203ff208fd6a51967e904547f4a2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "amadioha-the thunderer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "382",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a0586a93-7aff-43cc-8282-d081b8d6fe90"
+        },
+        "Hash": "bb989e6c588d85ddb798d1cb917371a5a2982c990da6602c395db834d54675ef"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sango-the-striker",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "383",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "15e1775c-74fe-4a0b-b79c-49f6b730fa89"
+        },
+        "Hash": "c11ed46950bd483b96b7207f5192b477f4edb3527a29938ede65b4b899af3269"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "agwu-the healer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "384",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "311a6713-66c9-43ce-82d8-e3ce03a87a81"
+        },
+        "Hash": "1a89ae40af72e9ececbdd0e68b7280bb189a8471b60cb7fb3f0e50b40ed037e5"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "tano-the swimmer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "385",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9c34a73f-33ee-4577-aba8-0982c1656ba7"
+        },
+        "Hash": "245dc1151962f19176c09171b1c9ea6b897ef1d196277df60dbc17501500e5bd"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "anansi-the-trickster",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "386",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "784f0f6b-4273-4a31-88d7-2455b96c9011"
+        },
+        "Hash": "baa69dfa5559360b122010f15ddd5fb9c60f6b4ff61f1de79355ea9d7c0f1b84"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "nyame-all-powerful",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "387",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "f3af0bbd-0724-4696-89ff-ed67f63e6b4f"
+        },
+        "Hash": "11f531c32ad8cc8416c349f78ea4ee99224ec7b22532504e99ecb0ce75ef7617"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "obatala-the-boss",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "388",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "c447c120-830e-4543-9cb3-5917ba36bce8"
+        },
+        "Hash": "d8391b0b5f54c54efa3f5a816fc3be67bdf664cf4ee2858e39baf07ead13d39f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "erinle-the-hunter",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "389",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dacbbb38-087d-4248-8085-13b619da0ef9"
+        },
+        "Hash": "df99ca82de2e92b90a977fda1528543432f0d17ad455fb20f68a02719b575148"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ogun-iron-bender",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "390",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "94c607b3-791e-40df-bd93-50926f094143"
+        },
+        "Hash": "75711ce475914023b20bfba597623ffad72c0e0289cce8ac6551c8d181dd0c2b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "abosom-the-wise",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "391",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b3427836-627b-41e4-a2d0-c29473448343"
+        },
+        "Hash": "5ac3f035efd51c80d70a01885be4d22cd017e7d04ed301c8c2d9c1685a101ef2"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "oya-the-violent",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "392",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "22aaebe4-4659-44de-ab3d-c4dae11fe9f5"
+        },
+        "Hash": "60dbd43fd375f5af1b9115aa856b87a706a5ebd37391f192392936754fe29d7c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "agbala-the-stylish",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "393",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ca720bf9-5e47-4421-b38f-bc62162ae99e"
+        },
+        "Hash": "8dd2d605d6acf0c0af6e0a1c5671085d96d83709072ad5ca38cf6a33760591f3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "njoku-ji-the-farmer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "394",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "3b795bad-91b4-4d0e-8ed8-bccbb226fc55"
+        },
+        "Hash": "748ff4aab8285a8e5316ba94e2ed372f8e63e1a5965e060e73f1eaa4d9ede78c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "akonadi-the-just",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "395",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "2aebd094-3be5-4773-a7a0-361f6332a7d4"
+        },
+        "Hash": "35aee4d04fbf8dc6d55aaa09a2d6340967504d554596ad64202ff75493989239"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "onyame-the-beautiful",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "396",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "fb148f97-d309-45a4-b902-4e066ca13f96"
+        },
+        "Hash": "e22ddc76c9a6af240d8e36e9e6f91bb220ef16718281c54a50fd55a52993a08c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ibeji-the-balancer",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "397",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7b210c03-5446-462d-980e-c73dbbc1e386"
+        },
+        "Hash": "ddb6a8f9fa5bdf57c4f64df65ce8bfcac50b18b08dad70503e47478d601d622d"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "asase-ya-the-loving",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "398",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "80b51092-3fbc-4d0c-8518-fc461ccb6c80"
+        },
+        "Hash": "fd91243301d5f2e5f0d86158815356d328bedc1b39b60cb44c32e0c97703a600"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "yemoja-the-cool",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "399",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1693b44d-96cf-4c2d-89be-9f4219c28447"
+        },
+        "Hash": "cf7131b5d25865d3a8be5f36baa29e6cf9cb83fd6e23385dca0ed79fe50e97b3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "yemaya-the-slow",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "400",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "9609d0f4-d9d3-4cff-aa06-a9c459fefa39"
+        },
+        "Hash": "67372e020a35c1cfdff54d7ee62d59ac502dd98c4ed5f2f6e588bba12dcc6d10"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "smirky-becky",
+        "minting tool": "TEAM BOOT",
+        "sensitive_content": false,
+        "series_number": "401",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "87bcc41f-eb3e-4ba2-9645-223c949a9b50"
+        },
+        "Hash": "6adbc7ad48da94145e518136b48e749525400181b7aeb9db4c345078b4016d63"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "ankara-scarlett",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "402",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "66d0149f-5f2a-4ded-8e6b-9bd7d7631c39"
+        },
+        "Hash": "634cfed56ca773e91d4f348de4e04dbac3ca5d4322f9a8c0c848c36f466364a4"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sea-rastafaria",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "403",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d1556c97-9075-49fc-8bde-1826bfc2dbe1"
+        },
+        "Hash": "9ae43cd5fa21cda419dddc75bfd1639a86165ddd9e3cd654ff75bce3b7f98a3b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "pretty-betty",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "404",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "6a4f5b7c-914d-42c5-8e5f-d1c34ca48886"
+        },
+        "Hash": "a510ebe54d2acee7d544b2d02a207a70bbffa210d860207db0235c05834db90a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "lola-medusa",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "405",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "32ec57f7-8272-4671-ad2d-db3dff99fe9f"
+        },
+        "Hash": "c09a5ae20be48f5dabb41c67a256e3af0743d8a0c8b5dffb64661ba40fd65cf1"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bukola-nosend",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "406",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "59d19b13-09e2-412e-a669-df020e03ae10"
+        },
+        "Hash": "8a09266ae905f9b1d1eb259f69565652fca2859131ad86a93ef4daf53dc507fb"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "burna-morgan",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "407",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d08af477-de20-4780-8449-46b87840b9fa"
+        },
+        "Hash": "4ce36ef939f16e00e0fd84ccfa011ff99027e8c655f6152d98d493179b2fe80a"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "afro-star",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "408",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "40743b16-ae12-4b4a-989c-e5fbf1e2e0ca"
+        },
+        "Hash": "b7cebb63b9e4ca15f94b5e4a9f23b54ddb0e6a285d76f6741d132f4da34bb49f"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "fiesty-sandra",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "409",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "d875aa6c-3e4a-4450-b09c-e9f1cdcc3947"
+        },
+        "Hash": "c4652af31568f574e3101837b36a00952032f5152013c171bad910fc5816ed23"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "sister-nkechi-sabi",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "410",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a728a380-1d33-4080-841d-80b041474d8f"
+        },
+        "Hash": "5820da813021e0afb77df546f933080e3e2c13439f80ae20147111e3c3f28ab3"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "unfriendly-gina",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "411",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "dd30a327-8a74-40a5-8207-19a790508ccc"
+        },
+        "Hash": "8cf714f5e35824f185e3ff34bb25c5101ccf5b9c19a9959b90a8f24e0ecf2b1e"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "dada-ganster",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "412",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "e1a43f65-aad2-4385-ac5e-bc159c6e0f2a"
+        },
+        "Hash": "59d554f1ecdfb91ec640f29d5d8d6570d09fc947211dc6def151cf8f1068164c"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "idoncare-linda",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "413",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "ed04b47c-ae98-4db2-b71b-04d7bb976d45"
+        },
+        "Hash": "89ffbf66163d19e306a2fc594e294e2d3fef467f67e770d99562941afbbfcae0"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "doubting-vivian",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "414",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a0282797-44ef-4bfb-a701-e4ed5e727d63"
+        },
+        "Hash": "a6c70abab5029ebca9e3f30b5d53450523a30f6ab4b151e0525bd6f3841e34cf"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "simbi-side-eyed",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "415",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "1f99104c-e98b-4c9a-9891-00a481e86008"
+        },
+        "Hash": "43e4d12adff03646115d0fb99b2f7f3195013a3e4dfc42419182ecf280baebd6"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "bambi-tekno",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "416",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "95ff5e2c-1ff2-4d58-890b-de0f39f9d8ce"
+        },
+        "Hash": "2175af60fdb8e3b189eb0c03216f7eab25801ca04f58a322b86875a91039b55b"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "saka-portable",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "417",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "bd98f74f-e42e-494e-8298-3183555ca666"
+        },
+        "Hash": "4bf6031400e8771a8c8fb59cf25e4071cec860632d5456f90853902946025134"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "king-of-boys",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "418",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "a650e79c-f964-4eb1-aa89-f9c1dbdede76"
+        },
+        "Hash": "1a9e5439d3241c596bbaf4723f6cae55673d8786b12930e48ea589169ecb4e12"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "funky-alte-pop",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "419",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "b6753a8b-6127-4e97-812b-99e465791ba3"
+        },
+        "Hash": "a428062bd2ee740f1698e79e3b91299c1f33b59939a7d1b198bd266472ea0b48"
+    },
+    {
+        "format": "CHIP-0007",
+        "name": "madame-ngozi",
+        "minting tool": "",
+        "sensitive_content": false,
+        "series_number": "420",
+        "series_total": 420,
+        "collection": {
+            "name": "Zuri NFT Tickets for Free Lunch",
+            "id": "7ecdbb1d-9a89-4136-b240-499051836979"
+        },
+        "Hash": "6f0d6bc6da223b68b3b3cb52091a4289c8e55bfb63eae5c0e454ebc3297617b9"
+    },
+    {
+        "Hash": "6f0d6bc6da223b68b3b3cb52091a4289c8e55bfb63eae5c0e454ebc3297617b9"
+    }
+]
